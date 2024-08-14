@@ -1,0 +1,3849 @@
+[
+    {
+        "type": "TKP",
+        "data": [
+            {
+                "id": 1,
+                "soal": "Anda bekerja dalam sebuah tim yang sedang mengerjakan proyek penting dengan deadline yang ketat. Salah satu anggota tim Anda tidak menyelesaikan tugasnya tepat waktu, yang mengakibatkan pekerjaan tim lainnya tertunda. Anda sudah mencoba mengingatkan anggota tim tersebut beberapa kali, tetapi hasilnya tidak memuaskan.",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan masalah dan berharap anggota tim tersebut akan menyelesaikan tugasnya tepat waktu."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda melaporkan masalah ini kepada atasan dan meminta agar tindakan disipliner diambil terhadap anggota tim tersebut."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda berbicara langsung dengan anggota tim tersebut secara pribadi dan mencari tahu alasan di balik keterlambatannya serta menawarkan bantuan jika diperlukan."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengerjakan tugas anggota tim tersebut sendiri untuk memastikan proyek tetap berjalan sesuai jadwal."
+                    }
+                ],
+                "jawaban": {
+                    "id": 3,
+                    "text": "Anda berbicara langsung dengan anggota tim tersebut secara pribadi dan mencari tahu alasan di balik keterlambatannya serta menawarkan bantuan jika diperlukan.",
+                    "penjelasan": "Menunjukkan kemampuan Anda dalam berkomunikasi secara efektif dan menyelesaikan masalah dengan pendekatan yang konstruktif. Ini mencerminkan sikap empati dan kemampuan untuk bekerja sama dengan orang lain, yang merupakan aspek penting dari karakteristik pribadi yang baik dalam lingkungan kerja."
+                }
+            },
+            {
+                "id":2,
+                "soal": "Dalam sebuah pertemuan tim, Anda melihat bahwa beberapa anggota tim tidak aktif berkontribusi dan tampak tidak tertarik dengan diskusi. Apa yang akan Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda langsung menegur mereka secara terbuka di pertemuan tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda membiarkan mereka dan melanjutkan diskusi tanpa perhatian khusus."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengadakan percakapan pribadi dengan anggota tim tersebut setelah pertemuan untuk memahami penyebabnya dan mencari solusi bersama."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengusulkan untuk mengubah topik pembicaraan ke sesuatu yang lebih menarik untuk semua orang."
+                    }
+                ],
+                "jawaban": {
+                    "id": 3,
+                    "text": "Anda mengadakan percakapan pribadi dengan anggota tim tersebut setelah pertemuan untuk memahami penyebabnya dan mencari solusi bersama.",
+                    "penjelasan": "Pendekatan ini menunjukkan bahwa Anda peduli terhadap masalah tim dan ingin menyelesaikan masalah secara pribadi dengan cara yang empatik dan membangun."
+                }
+            },
+            {
+                "id":3,
+                "soal": "Anda mendapatkan umpan balik negatif tentang kinerja Anda dari atasan. Bagaimana Anda menanggapi hal ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa tersinggung dan mulai mengabaikan umpan balik tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta penjelasan lebih lanjut dari atasan dan mencari cara untuk memperbaiki kekurangan yang disebutkan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda membalas dengan memberikan argumen bahwa umpan balik tersebut tidak adil."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mencari umpan balik dari rekan kerja lain untuk memastikan bahwa Anda tidak sendirian dalam masalah ini."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda meminta penjelasan lebih lanjut dari atasan dan mencari cara untuk memperbaiki kekurangan yang disebutkan.",
+                    "penjelasan": "Ini menunjukkan sikap terbuka terhadap kritik dan keinginan untuk berkembang, yang merupakan aspek penting dari profesionalisme dan karakter pribadi yang baik."
+                }
+            },
+            {
+                "id":4,
+                "soal": "Seorang rekan kerja selalu datang terlambat ke kantor dan hal ini mengganggu ritme kerja tim. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda membiarkan saja karena ini bukan masalah besar."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda melaporkan masalah ini ke manajer tanpa berbicara dengan rekan kerja tersebut terlebih dahulu."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda berbicara dengan rekan kerja tersebut secara pribadi untuk mengetahui alasan keterlambatannya dan menawarkan solusi."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mulai datang terlambat juga untuk menyeimbangkan keadaan."
+                    }
+                ],
+                "jawaban": {
+                    "id": 3,
+                    "text": "Anda berbicara dengan rekan kerja tersebut secara pribadi untuk mengetahui alasan keterlambatannya dan menawarkan solusi.",
+                    "penjelasan": "Pendekatan ini mencerminkan sikap kolaboratif dan kepedulian terhadap kesejahteraan tim, serta kemampuan untuk menyelesaikan konflik secara produktif."
+                }
+            },
+            {
+                "id":5,
+                "soal": "Anda diberi tugas tambahan oleh atasan di luar pekerjaan rutin Anda dan tenggat waktu sangat mendesak. Bagaimana Anda menghadapinya?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa terbebani dan menolak tugas tambahan tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengatur prioritas dan mencari cara untuk menyelesaikan tugas tambahan sambil tetap menyelesaikan pekerjaan rutin Anda."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta bantuan rekan kerja untuk menyelesaikan tugas tambahan tersebut tanpa berbicara dengan atasan."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta perpanjangan waktu untuk menyelesaikan tugas tambahan tersebut agar tidak mengganggu pekerjaan rutin Anda."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengatur prioritas dan mencari cara untuk menyelesaikan tugas tambahan sambil tetap menyelesaikan pekerjaan rutin Anda.",
+                    "penjelasan": "Menunjukkan kemampuan manajemen waktu dan prioritas, serta sikap positif dalam menghadapi tantangan tambahan dengan tetap memenuhi tanggung jawab yang ada."
+                }
+            },
+            {
+                "id":6,
+                "soal": "Selama proyek tim, ada ketidaksepakatan mengenai arah proyek. Anda memiliki pandangan yang berbeda dengan mayoritas tim. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengikuti pandangan mayoritas tanpa mengungkapkan pendapat Anda."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengajukan pandangan Anda dengan alasan yang jelas dan terbuka untuk diskusi, sambil mendengarkan pandangan orang lain."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda bersikeras dengan pandangan Anda dan mengabaikan pendapat orang lain."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meninggalkan proyek karena tidak setuju dengan keputusan tim."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengajukan pandangan Anda dengan alasan yang jelas dan terbuka untuk diskusi, sambil mendengarkan pandangan orang lain.",
+                    "penjelasan": "Ini menunjukkan sikap profesional dalam berkomunikasi dan bernegosiasi, serta kemampuan untuk bekerja sama dalam mencapai solusi terbaik melalui dialog terbuka."
+                }
+            },
+            {
+                "id":7,
+                "soal": "Anda baru saja menerima proyek dengan deadline yang sangat ketat dan tugasnya sangat kompleks. Namun, Anda juga memiliki tugas lain yang harus diselesaikan. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan tugas lain dan fokus sepenuhnya pada proyek baru."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta bantuan rekan kerja untuk menyelesaikan salah satu tugas."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengatur jadwal dengan baik dan mencoba menyelesaikan kedua tugas sesuai dengan deadline."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta perpanjangan waktu untuk proyek baru."
+                    }
+                ],
+                "jawaban": {
+                    "id": 3,
+                    "text": "Anda mengatur jadwal dengan baik dan mencoba menyelesaikan kedua tugas sesuai dengan deadline.",
+                    "penjelasan": "Ini menunjukkan kemampuan manajemen waktu dan prioritas, serta komitmen untuk memenuhi tanggung jawab meskipun ada tantangan."
+                }
+            },
+            {
+                "id":8,
+                "soal": "Seorang rekan kerja sering kali melanggar prosedur kerja yang sudah ditetapkan. Bagaimana Anda menanggapi hal ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda langsung melaporkan ke atasan tanpa membicarakannya dengan rekan kerja tersebut terlebih dahulu."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda berbicara langsung dengan rekan kerja tersebut dan mengingatkannya tentang prosedur yang benar."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengabaikannya dan berharap rekan kerja tersebut akan memperbaiki kesalahannya sendiri."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengikuti saja prosedur yang benar meskipun rekan kerja tidak mengikuti prosedur."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda berbicara langsung dengan rekan kerja tersebut dan mengingatkannya tentang prosedur yang benar.",
+                    "penjelasan": "Pendekatan ini mencerminkan kepedulian terhadap kualitas kerja dan komunikasi yang konstruktif dalam tim."
+                }
+            },
+            {
+                "id":9,
+                "soal": "Anda mendapatkan tugas yang memerlukan keterampilan yang belum Anda kuasai. Apa langkah pertama yang Anda ambil?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba menyelesaikan tugas tersebut tanpa bantuan apapun."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta pelatihan atau bantuan dari rekan kerja yang lebih berpengalaman."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menolak tugas tersebut dan meminta tugas lain yang lebih sesuai dengan keterampilan Anda."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mencari informasi di internet dan mencoba mempelajari keterampilan tersebut sendiri."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda meminta pelatihan atau bantuan dari rekan kerja yang lebih berpengalaman.",
+                    "penjelasan": "Ini menunjukkan sikap proaktif dalam mencari solusi dan keterbukaan untuk belajar dari orang lain."
+                }
+            },
+            {
+                "id":10,
+                "soal": "Dalam sebuah diskusi tim, Anda tidak setuju dengan strategi yang diusulkan oleh mayoritas anggota tim. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengikuti strategi mayoritas tanpa mengungkapkan pendapat Anda."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda menyampaikan pendapat Anda secara sopan dan mendiskusikan alternatif strategi dengan tim."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda berusaha untuk menyabot strategi mayoritas agar strategi Anda diterima."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda keluar dari tim karena tidak setuju dengan keputusan yang diambil."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda menyampaikan pendapat Anda secara sopan dan mendiskusikan alternatif strategi dengan tim.",
+                    "penjelasan": "Ini mencerminkan keterampilan komunikasi yang baik dan sikap kolaboratif dalam mencari solusi terbaik bersama tim."
+                }
+            },
+            {
+                "id":11,
+                "soal": "Seorang anggota tim Anda tidak memenuhi janji mereka untuk menyelesaikan tugas pada waktu yang telah ditentukan. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyalahkan anggota tim tersebut di depan tim lain."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda berbicara dengan anggota tim tersebut secara pribadi untuk mencari tahu alasan keterlambatannya dan mencari solusi bersama."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan masalah ini kepada atasan dan meminta tindakan disipliner."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menyelesaikan tugas tersebut sendiri untuk memastikan proyek tetap berjalan."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda berbicara dengan anggota tim tersebut secara pribadi untuk mencari tahu alasan keterlambatannya dan mencari solusi bersama.",
+                    "penjelasan": "Ini menunjukkan sikap empati dan kemampuan untuk menyelesaikan masalah secara konstruktif tanpa menciptakan konflik."
+                }
+            },
+            {
+                "id":12,
+                "soal": "Anda diberi tanggung jawab baru yang tidak ada dalam deskripsi pekerjaan Anda. Bagaimana Anda merespons?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menolak tanggung jawab tersebut karena tidak sesuai dengan deskripsi pekerjaan Anda."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda menerima tanggung jawab tersebut dengan sikap positif dan mencari cara untuk mempelajarinya."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta kompensasi tambahan sebelum menerima tanggung jawab tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengabaikan tanggung jawab tersebut dan berharap itu tidak akan berdampak pada pekerjaan Anda."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda menerima tanggung jawab tersebut dengan sikap positif dan mencari cara untuk mempelajarinya.",
+                    "penjelasan": "Ini menunjukkan sikap terbuka terhadap tantangan baru dan kesiapan untuk beradaptasi dalam lingkungan kerja."
+                }
+            },
+            {
+                "id":13,
+                "soal": "Anda sedang bekerja pada proyek kelompok dan ada ketegangan antara beberapa anggota tim. Apa yang Anda lakukan untuk mengatasi situasi tersebut?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan ketegangan dan fokus pada tugas Anda sendiri."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mencoba mediasi antara anggota tim yang berselisih untuk mencari solusi yang saling menguntungkan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan ketegangan tersebut kepada manajer untuk menangani masalah ini."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta semua anggota tim untuk memutuskan apakah mereka ingin melanjutkan proyek atau tidak."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mencoba mediasi antara anggota tim yang berselisih untuk mencari solusi yang saling menguntungkan.",
+                    "penjelasan": "Ini menunjukkan kemampuan Anda dalam menyelesaikan konflik dan mencari solusi yang bisa diterima oleh semua pihak."
+                }
+            },
+            {
+                "id":14,
+                "soal": "Anda diberi tugas yang sangat penting tetapi Anda merasa tidak memiliki semua informasi yang diperlukan untuk menyelesaikannya. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba menyelesaikan tugas tanpa meminta informasi tambahan."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta informasi tambahan kepada pihak yang relevan untuk memastikan bahwa Anda dapat menyelesaikan tugas dengan baik."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menyerahkan tugas kepada rekan kerja lain yang mungkin lebih mengetahui tentang topik tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menunda tugas tersebut hingga Anda mendapatkan semua informasi yang Anda rasa diperlukan."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda meminta informasi tambahan kepada pihak yang relevan untuk memastikan bahwa Anda dapat menyelesaikan tugas dengan baik.",
+                    "penjelasan": "Ini menunjukkan sikap proaktif dan tanggung jawab dalam memastikan kualitas pekerjaan dengan memperoleh informasi yang diperlukan."
+                }
+            },
+            {
+                "id":15,
+                "soal": "Seorang kolega meminta bantuan Anda untuk menyelesaikan proyeknya karena dia sangat tertekan. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda membantu kolega tersebut meskipun itu membuat Anda kesulitan dalam menyelesaikan pekerjaan Anda sendiri."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda memberikan saran dan panduan tentang bagaimana menyelesaikan proyek tersebut tetapi tidak membantu langsung."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menyarankan kolega tersebut untuk meminta bantuan dari manajer atau supervisor."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menolak untuk membantu karena itu bukan tanggung jawab Anda."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda memberikan saran dan panduan tentang bagaimana menyelesaikan proyek tersebut tetapi tidak membantu langsung.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk memberikan dukungan tanpa mengabaikan tanggung jawab pribadi Anda sendiri."
+                }
+            },
+            {
+                "id":16,
+                "soal": "Anda baru saja selesai menyelesaikan proyek besar dan Anda merasa sangat puas dengan hasilnya. Apa yang Anda lakukan setelah itu?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda langsung pindah ke proyek berikutnya tanpa merayakan pencapaian tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda merayakan pencapaian tersebut dengan tim dan mengambil waktu untuk refleksi tentang apa yang telah dipelajari."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta umpan balik dari manajer tentang hasil proyek untuk meningkatkan kinerja di masa depan."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menganggap pencapaian tersebut sebagai hal yang biasa dan melanjutkan pekerjaan seperti biasanya."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda merayakan pencapaian tersebut dengan tim dan mengambil waktu untuk refleksi tentang apa yang telah dipelajari.",
+                    "penjelasan": "Ini mencerminkan sikap apresiasi terhadap pencapaian dan pentingnya refleksi untuk perbaikan dan pertumbuhan."
+                }
+            },
+            {
+                "id":17,
+                "soal": "Saat bekerja dalam tim, Anda mendapati bahwa ada anggota tim yang sering terlambat menyelesaikan tugasnya. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan keterlambatan tersebut selama hasil akhirnya tetap baik."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda berbicara dengan anggota tim tersebut untuk memahami penyebab keterlambatan dan mencari solusi bersama."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta manajer untuk memberikan tindakan disipliner terhadap anggota tim tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda melakukan tugas anggota tim tersebut agar proyek tetap berjalan sesuai rencana."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda berbicara dengan anggota tim tersebut untuk memahami penyebab keterlambatan dan mencari solusi bersama.",
+                    "penjelasan": "Ini menunjukkan kemampuan dalam mengelola situasi yang sulit dengan pendekatan yang konstruktif dan mencari solusi bersama."
+                }
+            },
+            {
+                "id":18,
+                "soal": "Anda memiliki tenggat waktu yang ketat untuk menyelesaikan tugas, tetapi Anda baru saja menerima permintaan mendesak dari klien yang meminta bantuan segera. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyelesaikan tugas untuk klien terlebih dahulu dan mengabaikan tenggat waktu yang ketat."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengkomunikasikan kepada klien bahwa Anda sedang memiliki tenggat waktu yang ketat dan meminta waktu tambahan untuk menangani permintaannya."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mencoba menyelesaikan kedua tugas secara bersamaan meskipun dengan risiko kualitas yang mungkin menurun."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menolak permintaan klien dan melanjutkan pekerjaan Anda sesuai dengan tenggat waktu."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengkomunikasikan kepada klien bahwa Anda sedang memiliki tenggat waktu yang ketat dan meminta waktu tambahan untuk menangani permintaannya.",
+                    "penjelasan": "Pendekatan ini menunjukkan keterampilan komunikasi yang baik dan kemampuan untuk mengelola ekspektasi klien sambil tetap menghormati tenggat waktu Anda."
+                }
+            },
+            {
+                "id":19,
+                "soal": "Anda bekerja pada proyek yang melibatkan beberapa departemen dan terjadi kesalahpahaman tentang tanggung jawab. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyalahkan departemen lain dan meminta manajer untuk menyelesaikan masalah."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda melakukan pertemuan dengan perwakilan dari setiap departemen untuk klarifikasi dan menyelesaikan masalah tanggung jawab."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda bekerja sesuai dengan pemahaman Anda dan berharap masalahnya akan terselesaikan dengan sendirinya."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta bantuan dari tim Anda untuk menangani bagian yang tidak jelas tanpa mencari tahu penyebabnya."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda melakukan pertemuan dengan perwakilan dari setiap departemen untuk klarifikasi dan menyelesaikan masalah tanggung jawab.",
+                    "penjelasan": "Ini mencerminkan kemampuan untuk menyelesaikan masalah secara kolaboratif dan mengklarifikasi tanggung jawab agar proyek berjalan lancar."
+                }
+            },
+            {
+                "id":20,
+                "soal": "Anda sedang menghadapi deadline yang mendekat dan salah satu anggota tim tidak dapat menyelesaikan tugasnya karena alasan pribadi. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyelesaikan tugas anggota tim tersebut meskipun itu membebani pekerjaan Anda sendiri."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda membagi tugas anggota tim tersebut kepada anggota tim lainnya dan mendiskusikan cara untuk menyelesaikannya dengan cepat."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan masalah ini kepada atasan dan meminta perpanjangan waktu."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengabaikan masalah tersebut dan fokus pada tugas Anda sendiri."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda membagi tugas anggota tim tersebut kepada anggota tim lainnya dan mendiskusikan cara untuk menyelesaikannya dengan cepat.",
+                    "penjelasan": "Pendekatan ini menunjukkan kepemimpinan dan kemampuan untuk bekerja sama dalam tim untuk memastikan penyelesaian tugas meskipun ada hambatan."
+                }
+            },
+            {
+                "id":21,
+                "soal": "Anda mendapatkan umpan balik negatif dari klien mengenai pekerjaan Anda. Bagaimana Anda menanggapi hal ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa tersinggung dan membalas dengan argumen tentang mengapa pekerjaan Anda sudah sesuai."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta klarifikasi mengenai umpan balik tersebut dan berkomitmen untuk memperbaiki aspek yang dipertanyakan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengabaikan umpan balik tersebut dan melanjutkan pekerjaan seperti biasanya."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengalihkan tanggung jawab perbaikan kepada rekan kerja lain."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda meminta klarifikasi mengenai umpan balik tersebut dan berkomitmen untuk memperbaiki aspek yang dipertanyakan.",
+                    "penjelasan": "Ini menunjukkan sikap terbuka terhadap kritik dan kesiapan untuk memperbaiki pekerjaan berdasarkan umpan balik yang diberikan."
+                }
+            },
+            {
+                "id":22,
+                "soal": "Anda bekerja pada proyek kelompok dan mendapati bahwa salah satu anggota tim tidak berkontribusi secara aktif. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyelesaikan pekerjaan yang harusnya dilakukan oleh anggota tim tersebut tanpa membahasnya."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda berbicara dengan anggota tim tersebut untuk memahami penyebab ketidakaktifan dan mencari cara agar dia lebih berkontribusi."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan anggota tim tersebut kepada manajer untuk tindakan lebih lanjut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda membagi pekerjaan yang tidak diselesaikan oleh anggota tim tersebut di antara anggota tim lainnya."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda berbicara dengan anggota tim tersebut untuk memahami penyebab ketidakaktifan dan mencari cara agar dia lebih berkontribusi.",
+                    "penjelasan": "Pendekatan ini menunjukkan keterampilan komunikasi dan kepemimpinan dalam mencari solusi yang konstruktif dan memperbaiki dinamika tim."
+                }
+            },
+            {
+                "id":23,
+                "soal": "Anda baru saja menyelesaikan proyek yang memakan waktu dan tenaga. Apa yang Anda lakukan untuk menjaga motivasi dan kinerja Anda ke depan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda langsung memulai proyek baru tanpa melakukan evaluasi atau istirahat."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda merayakan pencapaian tersebut dan melakukan evaluasi untuk mengetahui apa yang bisa diperbaiki di masa depan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta cuti untuk beristirahat dan kembali dengan semangat baru."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda melanjutkan pekerjaan dengan cara yang sama seperti sebelumnya tanpa perubahan."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda merayakan pencapaian tersebut dan melakukan evaluasi untuk mengetahui apa yang bisa diperbaiki di masa depan.",
+                    "penjelasan": "Ini menunjukkan sikap reflektif dan kesiapan untuk meningkatkan kinerja dengan belajar dari pengalaman."
+                }
+            },
+            {
+                "id":24,
+                "soal": "Anda menghadapi konflik dengan rekan kerja mengenai metode yang digunakan dalam proyek. Apa yang Anda lakukan untuk menyelesaikan masalah tersebut?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan konflik dan mengikuti metode yang disarankan oleh rekan kerja tanpa diskusi lebih lanjut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda menyarankan untuk mengadakan pertemuan dengan rekan kerja untuk mendiskusikan metode yang berbeda dan mencari solusi bersama."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan konflik tersebut kepada manajer untuk penyelesaian."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda bersikeras pada metode Anda dan mencoba mempengaruhi rekan kerja untuk mengikuti metode tersebut."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda menyarankan untuk mengadakan pertemuan dengan rekan kerja untuk mendiskusikan metode yang berbeda dan mencari solusi bersama.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk menyelesaikan konflik dengan cara yang kolaboratif dan konstruktif."
+                }
+            },
+            {
+                "id":25,
+                "soal": "Anda menerima umpan balik dari manajer yang mengkritik pendekatan Anda terhadap sebuah tugas. Bagaimana Anda menanggapi umpan balik tersebut?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa tidak senang dengan umpan balik tersebut dan tidak mengubah cara kerja Anda."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mendengarkan umpan balik tersebut dengan seksama dan mencoba menerapkannya untuk meningkatkan cara kerja Anda."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda membalas umpan balik tersebut dengan argumen tentang bagaimana cara kerja Anda sudah sesuai."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta penjelasan lebih lanjut tentang umpan balik dan mempertanyakan alasan di balik kritik tersebut."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mendengarkan umpan balik tersebut dengan seksama dan mencoba menerapkannya untuk meningkatkan cara kerja Anda.",
+                    "penjelasan": "Ini mencerminkan sikap terbuka terhadap umpan balik dan komitmen untuk perbaikan diri."
+                }
+            },
+            {
+                "id":26,
+                "soal": "Anda dihadapkan dengan tugas yang sangat mendetail dan memerlukan perhatian ekstra. Apa yang Anda lakukan untuk menyelesaikannya dengan baik?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda melakukan tugas tersebut secara cepat untuk menyelesaikannya tanpa memperhatikan detail."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda membagi tugas menjadi bagian-bagian kecil dan memeriksa setiap detail untuk memastikan kualitasnya."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta bantuan dari rekan kerja untuk menyelesaikan tugas tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menunda tugas hingga mendekati tenggat waktu untuk memusatkan perhatian pada detail pada saat itu."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda membagi tugas menjadi bagian-bagian kecil dan memeriksa setiap detail untuk memastikan kualitasnya.",
+                    "penjelasan": "Ini menunjukkan keterampilan organisasi dan perhatian terhadap detail untuk menghasilkan pekerjaan berkualitas tinggi."
+                }
+            },
+            {
+                "id":27,
+                "soal": "Anda mendapatkan tugas baru yang tidak familiar bagi Anda. Bagaimana Anda menangani situasi ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba menyelesaikan tugas dengan cara yang Anda ketahui meskipun mungkin tidak efektif."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mencari informasi tambahan dan meminta bantuan dari rekan kerja yang lebih berpengalaman sebelum mulai mengerjakan tugas."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta agar tugas tersebut diberikan kepada orang lain yang lebih berpengalaman."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menunda tugas hingga Anda merasa lebih siap untuk menangani."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mencari informasi tambahan dan meminta bantuan dari rekan kerja yang lebih berpengalaman sebelum mulai mengerjakan tugas.",
+                    "penjelasan": "Pendekatan ini menunjukkan keinginan untuk belajar dan mengatasi tantangan dengan bantuan yang sesuai."
+                }
+            },
+            {
+                "id":28,
+                "soal": "Anda memiliki beberapa proyek dengan tenggat waktu yang sama. Bagaimana Anda mengelola waktu Anda?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyelesaikan proyek-proyek secara acak sesuai dengan keinginan Anda."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda menyusun prioritas berdasarkan urgensi dan pentingnya setiap proyek, lalu membuat jadwal untuk menyelesaikannya."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mencoba menyelesaikan semua proyek pada saat yang sama meskipun itu membebani waktu Anda."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta perpanjangan tenggat waktu untuk semua proyek tersebut."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda menyusun prioritas berdasarkan urgensi dan pentingnya setiap proyek, lalu membuat jadwal untuk menyelesaikannya.",
+                    "penjelasan": "Ini menunjukkan kemampuan dalam manajemen waktu dan prioritas untuk menyelesaikan tugas dengan efisien."
+                }
+            },
+            {
+                "id":29,
+                "soal": "Dalam sebuah rapat, salah satu rekan kerja Anda terus-menerus menginterupsi orang lain saat mereka berbicara. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan perilaku tersebut dan melanjutkan rapat seperti biasa."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda secara langsung meminta rekan kerja tersebut untuk tidak menginterupsi dan memberi kesempatan kepada orang lain untuk berbicara."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan perilaku tersebut kepada atasan Anda setelah rapat."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda secara diam-diam mendiskusikan masalah ini dengan rekan kerja tersebut di luar rapat."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda secara langsung meminta rekan kerja tersebut untuk tidak menginterupsi dan memberi kesempatan kepada orang lain untuk berbicara.",
+                    "penjelasan": "Pendekatan ini menunjukkan keberanian dalam menghadapi masalah secara langsung dan menjaga suasana rapat tetap produktif dan teratur."
+                }
+            },
+            {
+                "id":30,
+                "soal": "Anda mendapatkan tugas yang tidak sesuai dengan keahlian Anda. Apa yang Anda lakukan untuk menyelesaikan tugas tersebut dengan baik?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba menyelesaikan tugas dengan pengetahuan yang Anda miliki, meskipun mungkin hasilnya kurang memuaskan."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mencari pelatihan atau informasi tambahan untuk meningkatkan keterampilan Anda terkait tugas tersebut."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta bantuan dari rekan kerja yang lebih berpengalaman dalam bidang tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menolak tugas tersebut dan meminta agar diberikan tugas lain yang lebih sesuai dengan keahlian Anda."
+                    }
+                ],
+                "jawaban": {
+                    "id": 3,
+                    "text": "Anda meminta bantuan dari rekan kerja yang lebih berpengalaman dalam bidang tersebut.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk mengakui batasan Anda dan mencari dukungan yang diperlukan untuk menyelesaikan tugas dengan baik."
+                }
+            },
+            {
+                "id":31,
+                "soal": "Anda sedang mengerjakan proyek tim dan ada perbedaan pendapat tentang strategi yang harus diambil. Bagaimana Anda menyelesaikan perbedaan ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda memilih strategi yang Anda anggap paling tepat dan mengabaikan pendapat lainnya."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengumpulkan pendapat semua anggota tim, menganalisis keuntungan dan kerugian dari setiap strategi, dan memilih yang terbaik secara bersama-sama."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda membiarkan tim memutuskan dan menunggu hasil akhir untuk melihat strategi mana yang lebih baik."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta keputusan final dari manajer tanpa melibatkan tim."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengumpulkan pendapat semua anggota tim, menganalisis keuntungan dan kerugian dari setiap strategi, dan memilih yang terbaik secara bersama-sama.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk bekerja secara kolaboratif dan membuat keputusan yang baik berdasarkan masukan dari berbagai pihak."
+                }
+            },
+            {
+                "id":32,
+                "soal": "Anda merasa stres karena beban kerja yang berat dan tenggat waktu yang ketat. Apa yang Anda lakukan untuk mengelola stres Anda?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda terus bekerja tanpa istirahat untuk menyelesaikan semua tugas secepat mungkin."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengatur jadwal dengan lebih baik, meminta bantuan jika diperlukan, dan meluangkan waktu untuk istirahat agar tetap produktif."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengabaikan stres tersebut dan berharap perasaan Anda akan membaik dengan sendirinya."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengeluh kepada rekan kerja atau atasan tentang beban kerja Anda tanpa mencari solusi."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengatur jadwal dengan lebih baik, meminta bantuan jika diperlukan, dan meluangkan waktu untuk istirahat agar tetap produktif.",
+                    "penjelasan": "Ini menunjukkan pendekatan yang sehat dalam mengelola stres dan memastikan bahwa Anda tetap efisien dan produktif dalam pekerjaan Anda."
+                }
+            },
+            {
+                "id":33,
+                "soal": "Anda mendapatkan umpan balik negatif tentang kualitas pekerjaan Anda dari rekan kerja. Bagaimana Anda menanggapinya?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa frustrasi dan tidak mencoba memperbaiki kualitas pekerjaan Anda."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta penjelasan lebih lanjut mengenai umpan balik dan mencari cara untuk memperbaiki kualitas pekerjaan Anda di masa depan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengabaikan umpan balik tersebut dan tetap melakukan pekerjaan seperti biasa."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda membalas dengan argumen tentang mengapa pekerjaan Anda sudah sesuai dengan standar."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda meminta penjelasan lebih lanjut mengenai umpan balik dan mencari cara untuk memperbaiki kualitas pekerjaan Anda di masa depan.",
+                    "penjelasan": "Ini menunjukkan keterbukaan terhadap kritik dan keinginan untuk memperbaiki kualitas pekerjaan berdasarkan umpan balik yang diterima."
+                }
+            },
+            {
+                "id":34,
+                "soal": "Anda memiliki proyek yang memerlukan kolaborasi dengan tim dari departemen lain. Bagaimana Anda memastikan kerja sama yang efektif?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda bekerja secara terpisah dan hanya berkomunikasi jika diperlukan."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengadakan pertemuan rutin dengan tim dari departemen lain untuk membahas kemajuan dan masalah serta memastikan komunikasi yang jelas."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengirim email berkala kepada tim lain tanpa mengikuti up-to-date mengenai kemajuan mereka."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta manajer untuk menangani semua komunikasi antar departemen."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengadakan pertemuan rutin dengan tim dari departemen lain untuk membahas kemajuan dan masalah serta memastikan komunikasi yang jelas.",
+                    "penjelasan": "Ini menunjukkan inisiatif dalam menjaga komunikasi dan kolaborasi yang efektif untuk mencapai tujuan proyek bersama."
+                }
+            },
+            {
+                "id":35,
+                "soal": "Anda mengalami masalah teknis saat bekerja pada sebuah proyek dan tidak dapat menyelesaikannya. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba menyelesaikan masalah tersebut sendiri tanpa mencari bantuan."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mencari bantuan dari rekan kerja yang mungkin memiliki keahlian dalam masalah teknis tersebut atau mencari solusi dari sumber daya yang tersedia."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengabaikan masalah tersebut dan melanjutkan pekerjaan yang lain."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta atasan untuk menyelesaikan masalah teknis tersebut."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mencari bantuan dari rekan kerja yang mungkin memiliki keahlian dalam masalah teknis tersebut atau mencari solusi dari sumber daya yang tersedia.",
+                    "penjelasan": "Ini menunjukkan proaktivitas dalam mencari solusi dan memanfaatkan sumber daya yang ada untuk menyelesaikan masalah."
+                }
+            },
+            {
+                "id":36,
+                "soal": "Anda sedang bekerja dalam tim dan terdapat anggota yang selalu terlambat dalam menyelesaikan tugas. Bagaimana Anda menangani situasi ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menunggu hingga tugas selesai dan menyesuaikan pekerjaan Anda tanpa membahas keterlambatan."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda berdiskusi dengan anggota tim tersebut secara terbuka mengenai dampak keterlambatannya terhadap tim dan mencari solusi bersama."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan masalah ini kepada atasan untuk mendapatkan tindakan lebih lanjut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda memutuskan untuk menyelesaikan tugas anggota tim tersebut sendiri untuk memastikan proyek tetap berjalan sesuai jadwal."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda berdiskusi dengan anggota tim tersebut secara terbuka mengenai dampak keterlambatannya terhadap tim dan mencari solusi bersama.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk mengatasi masalah dalam tim dengan komunikasi yang efektif dan mencari solusi yang kolaboratif."
+                }
+            },
+            {
+                "id":37,
+                "soal": "Anda mendapatkan tugas tambahan dari atasan di luar tanggung jawab pekerjaan Anda. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menolak tugas tambahan tersebut dan menyarankan agar orang lain yang mengerjakan."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda menerima tugas tambahan dan menyusun rencana untuk mengelola pekerjaan tambahan tersebut tanpa mengganggu tanggung jawab utama Anda."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda hanya menyelesaikan tugas tambahan jika ada waktu luang setelah menyelesaikan tanggung jawab utama."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta kompensasi tambahan untuk menyelesaikan tugas tambahan tersebut."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda menerima tugas tambahan dan menyusun rencana untuk mengelola pekerjaan tambahan tersebut tanpa mengganggu tanggung jawab utama Anda.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk menyeimbangkan berbagai tanggung jawab dan mengambil inisiatif dalam menyelesaikan tugas tambahan secara efisien."
+                }
+            },
+            {
+                "id":38,
+                "soal": "Anda memiliki konflik dengan seorang rekan kerja mengenai cara terbaik untuk menyelesaikan sebuah proyek. Bagaimana Anda menyelesaikan konflik ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda tetap berpegang pada pendapat Anda dan tidak mencari solusi lain."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengajak rekan kerja tersebut untuk berdiskusi secara konstruktif dan mencari kompromi yang dapat diterima oleh kedua belah pihak."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melibatkan atasan untuk memutuskan cara terbaik dalam menyelesaikan proyek."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta agar proyek tersebut dialihkan ke tim lain agar Anda tidak perlu berkonflik."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mengajak rekan kerja tersebut untuk berdiskusi secara konstruktif dan mencari kompromi yang dapat diterima oleh kedua belah pihak.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk menyelesaikan konflik melalui komunikasi terbuka dan mencari solusi yang memuaskan semua pihak."
+                }
+            },
+            {
+                "id":39,
+                "soal": "Anda mendapatkan proyek dengan batas waktu yang ketat dan banyak detail yang harus diperhatikan. Apa yang Anda lakukan untuk menyelesaikannya tepat waktu?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda bekerja keras tanpa perencanaan untuk menyelesaikan semua detailnya."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda membuat daftar tugas yang perlu diselesaikan, mengatur prioritas, dan bekerja secara terstruktur untuk memastikan semua detailnya diperhatikan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menyelesaikan proyek dengan cara yang cepat dan fokus pada hasil akhir tanpa terlalu memperhatikan detail."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta perpanjangan batas waktu untuk memastikan semua detail bisa ditangani dengan baik."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda membuat daftar tugas yang perlu diselesaikan, mengatur prioritas, dan bekerja secara terstruktur untuk memastikan semua detailnya diperhatikan.",
+                    "penjelasan": "Ini menunjukkan keterampilan dalam perencanaan dan manajemen waktu untuk memastikan proyek selesai dengan baik dan tepat waktu."
+                }
+            },
+            {
+                "id": 40,
+                "soal": "Dalam sebuah rapat tim, Anda mengetahui bahwa ide Anda tidak diterima dengan baik oleh anggota tim lainnya. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda tetap bersikeras dengan ide Anda tanpa mempertimbangkan masukan dari anggota tim lain."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mendengarkan masukan dari anggota tim, mempertimbangkan ide mereka, dan mencari titik temu yang dapat diterima oleh semua pihak."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mengabaikan masukan dari anggota tim dan berusaha memperjuangkan ide Anda sendiri tanpa kompromi."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengajukan ide lain yang mungkin lebih mudah diterima oleh anggota tim."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mendengarkan masukan dari anggota tim, mempertimbangkan ide mereka, dan mencari titik temu yang dapat diterima oleh semua pihak.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk berkolaborasi dan menyesuaikan ide berdasarkan feedback dari orang lain untuk mencapai solusi yang lebih baik."
+                }
+            },
+            {
+                "id": 41,
+                "soal": "Seorang kolega selalu terlambat datang ke rapat yang Anda pimpin. Apa yang Anda lakukan untuk mengatasi masalah ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menegur kolega tersebut secara langsung dan menekankan pentingnya disiplin waktu."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mengabaikan keterlambatan tersebut dan tetap melanjutkan rapat sesuai jadwal."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mencari tahu alasan keterlambatan dan menawarkan solusi atau fleksibilitas agar kolega tersebut bisa datang tepat waktu di masa depan."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda membuat aturan ketat mengenai waktu rapat dan memberikan konsekuensi bagi mereka yang terlambat."
+                    }
+                ],
+                "jawaban": {
+                    "id": 3,
+                    "text": "Anda mencari tahu alasan keterlambatan dan menawarkan solusi atau fleksibilitas agar kolega tersebut bisa datang tepat waktu di masa depan.",
+                    "penjelasan": "Ini menunjukkan sikap empati dan kemampuan untuk mencari solusi yang konstruktif terhadap masalah yang dihadapi tim."
+                }
+            },
+            {
+                "id": 42,
+                "soal": "Anda mendapatkan umpan balik negatif dari atasan mengenai pekerjaan Anda. Apa langkah pertama yang Anda ambil?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa kecewa dan menolak untuk menerima umpan balik tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta klarifikasi mengenai umpan balik tersebut dan mencari cara untuk memperbaiki pekerjaan Anda."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menyalahkan faktor luar yang menyebabkan pekerjaan Anda tidak sesuai dengan harapan atasan."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengabaikan umpan balik dan terus melanjutkan pekerjaan dengan cara yang sama."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda meminta klarifikasi mengenai umpan balik tersebut dan mencari cara untuk memperbaiki pekerjaan Anda.",
+                    "penjelasan": "Ini menunjukkan sikap terbuka terhadap kritik dan kemauan untuk belajar dan memperbaiki diri."
+                }
+            },
+            {
+                "id": 43,
+                "soal": "Anda mendapatkan proyek baru yang memerlukan keterampilan yang belum Anda kuasai sepenuhnya. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menolak proyek tersebut karena merasa tidak cukup kompeten."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda menerima proyek tersebut dan mencari pelatihan atau bantuan tambahan untuk meningkatkan keterampilan yang diperlukan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda mencoba menyelesaikan proyek dengan keterampilan yang ada meskipun hasilnya mungkin tidak optimal."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta agar proyek tersebut dialihkan ke rekan kerja yang lebih kompeten."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda menerima proyek tersebut dan mencari pelatihan atau bantuan tambahan untuk meningkatkan keterampilan yang diperlukan.",
+                    "penjelasan": "Ini menunjukkan kemauan untuk belajar dan berkembang serta menghadapi tantangan dengan sikap proaktif."
+                }
+            },
+            {
+                "id": 44,
+                "soal": "Anda mengalami kesulitan dalam berkomunikasi dengan seorang anggota tim yang memiliki gaya komunikasi yang berbeda dari Anda. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba untuk mengubah gaya komunikasi Anda agar lebih sesuai dengan gaya anggota tim tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda terus berkomunikasi dengan cara Anda sendiri dan berharap anggota tim tersebut bisa menyesuaikan diri."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda meminta bantuan dari atasan untuk menyelesaikan masalah komunikasi tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menghindari komunikasi dengan anggota tim tersebut untuk menghindari konflik."
+                    }
+                ],
+                "jawaban": {
+                    "id": 1,
+                    "text": "Anda mencoba untuk mengubah gaya komunikasi Anda agar lebih sesuai dengan gaya anggota tim tersebut.",
+                    "penjelasan": "Ini menunjukkan fleksibilitas dan kemampuan beradaptasi dalam berkomunikasi untuk mencapai hasil yang lebih efektif."
+                }
+            },
+            {
+                "id": 45,
+                "soal": "Anda mengetahui bahwa seorang rekan kerja mendapatkan penghargaan atas kontribusi yang sebenarnya merupakan hasil kerja tim. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mengabaikan masalah tersebut dan tidak melakukan apa-apa."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda secara sopan mengungkapkan kepada rekan kerja dan atasan bahwa penghargaan tersebut seharusnya mencakup kontribusi tim."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda merasa iri dan mengeluh kepada rekan kerja lainnya mengenai ketidakadilan tersebut."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta agar penghargaan tersebut ditarik kembali dan diberikan kepada tim."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda secara sopan mengungkapkan kepada rekan kerja dan atasan bahwa penghargaan tersebut seharusnya mencakup kontribusi tim.",
+                    "penjelasan": "Ini menunjukkan integritas dan kemampuan untuk menangani masalah dengan cara yang konstruktif dan profesional."
+                }
+            },
+            {
+                "id": 46,
+                "soal": "Anda memiliki jadwal yang sangat padat dan mendapati bahwa ada kesalahan dalam pekerjaan Anda yang membutuhkan perbaikan segera. Bagaimana Anda menangani situasi ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda mencoba memperbaiki kesalahan tersebut secepat mungkin meskipun mengorbankan beberapa tugas lainnya."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda meminta bantuan rekan kerja untuk menyelesaikan perbaikan tersebut sambil tetap fokus pada tugas-tugas lainnya."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menunda perbaikan tersebut dan berharap masalahnya bisa diselesaikan di lain waktu."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mencari tahu cara memperbaiki kesalahan tersebut tanpa mengganggu jadwal kerja Anda."
+                    }
+                ],
+                "jawaban": {
+                    "id": 4,
+                    "text": "Anda mencari tahu cara memperbaiki kesalahan tersebut tanpa mengganggu jadwal kerja Anda.",
+                    "penjelasan": "Ini menunjukkan keterampilan manajemen waktu dan kemampuan untuk menyelesaikan masalah tanpa mengganggu prioritas utama."
+                }
+            },
+            {
+                "id": 47,
+                "soal": "Anda sedang bekerja dalam tim dengan tenggat waktu yang mendekat, dan salah satu anggota tim tidak memenuhi deadline mereka. Bagaimana Anda menangani situasi ini?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda menyelesaikan tugas anggota tim tersebut sendiri agar proyek tetap sesuai jadwal."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda berdiskusi dengan anggota tim tersebut untuk mencari tahu kendala yang mereka hadapi dan menawarkan bantuan jika diperlukan."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda melaporkan masalah ini kepada atasan untuk mendapatkan keputusan tentang tindakan selanjutnya."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mengabaikan keterlambatan tersebut dan melanjutkan pekerjaan Anda tanpa perubahan."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda berdiskusi dengan anggota tim tersebut untuk mencari tahu kendala yang mereka hadapi dan menawarkan bantuan jika diperlukan.",
+                    "penjelasan": "Ini menunjukkan sikap kolaboratif dan kemauan untuk membantu anggota tim dalam mengatasi masalah mereka."
+                }
+            },
+            {
+                "id": 48,
+                "soal": "Anda menerima kritik yang konstruktif dari seorang kolega mengenai cara Anda menyelesaikan tugas. Apa yang Anda lakukan?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda merasa tersinggung dan mengabaikan kritik tersebut."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mendengarkan dengan cermat, merenungkan kritik tersebut, dan mencari cara untuk menerapkannya dalam pekerjaan Anda."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda membalas kritik tersebut dengan argumen bahwa cara Anda sudah benar."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda meminta kolega tersebut untuk memberikan kritik yang lebih spesifik tentang cara memperbaiki pekerjaan Anda."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mendengarkan dengan cermat, merenungkan kritik tersebut, dan mencari cara untuk menerapkannya dalam pekerjaan Anda.",
+                    "penjelasan": "Ini menunjukkan kemampuan untuk menerima masukan dan kemauan untuk melakukan perbaikan berdasarkan umpan balik yang diterima."
+                }
+            },
+            {
+                "id": 49,
+                "soal": "Dalam situasi konflik antara dua rekan kerja, apa yang Anda lakukan sebagai pemimpin?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda memilih untuk tidak terlibat dan membiarkan mereka menyelesaikan konflik sendiri."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda memfasilitasi diskusi terbuka antara kedua rekan kerja untuk memahami perbedaan mereka dan mencari solusi bersama."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda memberi perintah tegas kepada keduanya untuk berhenti bertengkar tanpa mencari tahu penyebab konflik."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda mendukung salah satu pihak dalam konflik tersebut dan memberikan keputusan yang dianggap adil."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda memfasilitasi diskusi terbuka antara kedua rekan kerja untuk memahami perbedaan mereka dan mencari solusi bersama.",
+                    "penjelasan": "Ini menunjukkan keterampilan dalam menyelesaikan konflik dengan pendekatan yang adil dan konstruktif."
+                }
+            },
+            {
+                "id": 50,
+                "soal": "Anda menerima tugas yang tidak sesuai dengan keahlian Anda. Apa yang Anda lakukan untuk memastikan tugas tersebut selesai dengan baik?",
+                "jawaban_pilihan": [
+                    {
+                        "id": 1,
+                        "text": "Anda meminta agar tugas tersebut dialihkan ke orang lain yang lebih ahli."
+                    },
+                    {
+                        "id": 2,
+                        "text": "Anda mencari informasi tambahan dan sumber daya yang diperlukan untuk menyelesaikan tugas tersebut dengan baik."
+                    },
+                    {
+                        "id": 3,
+                        "text": "Anda menyelesaikan tugas tersebut dengan cara yang Anda anggap paling sederhana tanpa memperhatikan detail."
+                    },
+                    {
+                        "id": 4,
+                        "text": "Anda menunda penyelesaian tugas tersebut hingga ada waktu luang untuk mempelajarinya."
+                    }
+                ],
+                "jawaban": {
+                    "id": 2,
+                    "text": "Anda mencari informasi tambahan dan sumber daya yang diperlukan untuk menyelesaikan tugas tersebut dengan baik.",
+                    "penjelasan": "Ini menunjukkan kemauan untuk belajar dan beradaptasi dengan situasi baru untuk menyelesaikan tugas dengan efektif."
+                }
+            }
+        ]
+},{
+    "type": "TIU",
+    "data": [
+        {
+            "id": 1,
+            "soal": "Jika 3x + 2 = 11, maka nilai dari x adalah?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "3"
+                },
+                {
+                    "id": 2,
+                    "text": "4"
+                },
+                {
+                    "id": 3,
+                    "text": "5"
+                },
+                {
+                    "id": 4,
+                    "text": "6"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "4",
+                "penjelasan": "Untuk menemukan nilai x, kita menyelesaikan persamaan 3x + 2 = 11. Dengan mengurangi 2 dari kedua sisi persamaan, kita mendapatkan 3x = 9. Kemudian, membagi kedua sisi dengan 3, x = 3."
+            }
+        },
+        {
+            "id": 2,
+            "soal": "Apa angka berikutnya dalam urutan 2, 4, 8, 16, ...?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "20"
+                },
+                {
+                    "id": 2,
+                    "text": "24"
+                },
+                {
+                    "id": 3,
+                    "text": "32"
+                },
+                {
+                    "id": 4,
+                    "text": "40"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "32",
+                "penjelasan": "Urutannya adalah deret geometri dengan rasio 2. Setiap angka adalah hasil perkalian angka sebelumnya dengan 2. Oleh karena itu, angka berikutnya setelah 16 adalah 16 × 2 = 32."
+            }
+        },
+        {
+            "id": 3,
+            "soal": "Jika A adalah angka yang lebih besar dari 5 dan kurang dari 10, dan B adalah angka yang lebih kecil dari 7 dan lebih besar dari 3, berapakah kemungkinan nilai dari A + B?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "8 sampai 16"
+                },
+                {
+                    "id": 2,
+                    "text": "9 sampai 15"
+                },
+                {
+                    "id": 3,
+                    "text": "10 sampai 17"
+                },
+                {
+                    "id": 4,
+                    "text": "11 sampai 18"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "9 sampai 15",
+                "penjelasan": "A dapat bernilai 6, 7, 8, atau 9, dan B dapat bernilai 4, 5, atau 6. Jadi, nilai minimum dari A + B adalah 6 + 4 = 10, dan nilai maksimum adalah 9 + 6 = 15."
+            }
+        },
+        {
+            "id": 4,
+            "soal": "Jika 5 orang dapat menyelesaikan pekerjaan dalam 10 jam, berapa lama 10 orang akan menyelesaikan pekerjaan yang sama, dengan asumsi efisiensi tetap?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "5 jam"
+                },
+                {
+                    "id": 2,
+                    "text": "10 jam"
+                },
+                {
+                    "id": 3,
+                    "text": "15 jam"
+                },
+                {
+                    "id": 4,
+                    "text": "20 jam"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "5 jam",
+                "penjelasan": "Dengan dua kali lipat jumlah orang, waktu yang dibutuhkan akan setengah dari waktu awal. Jadi, 10 orang akan menyelesaikan pekerjaan dalam 10 / 2 = 5 jam."
+            }
+        },
+        {
+            "id": 5,
+            "soal": "Dalam urutan angka 1, 1, 2, 3, 5, 8, ..., apa angka berikutnya?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "12"
+                },
+                {
+                    "id": 2,
+                    "text": "13"
+                },
+                {
+                    "id": 3,
+                    "text": "14"
+                },
+                {
+                    "id": 4,
+                    "text": "15"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "13",
+                "penjelasan": "Ini adalah deret Fibonacci, di mana setiap angka adalah penjumlahan dari dua angka sebelumnya. Jadi, 5 + 8 = 13."
+            }
+        },
+        {
+            "id": 6,
+            "soal": "Sebuah kotak berisi 3 bola merah, 2 bola biru, dan 5 bola hijau. Jika Anda menarik satu bola secara acak, apa peluangnya untuk mendapatkan bola hijau?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "5/10"
+                },
+                {
+                    "id": 2,
+                    "text": "1/2"
+                },
+                {
+                    "id": 3,
+                    "text": "5/12"
+                },
+                {
+                    "id": 4,
+                    "text": "1/3"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "5/10 atau 1/2",
+                "penjelasan": "Total bola = 3 + 2 + 5 = 10. Peluang mendapatkan bola hijau adalah 5 / 10 = 1 / 2."
+            }
+        },
+        {
+            "id": 7,
+            "soal": "Jika 4x - 7 = 13, berapakah nilai x?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "5"
+                },
+                {
+                    "id": 2,
+                    "text": "6"
+                },
+                {
+                    "id": 3,
+                    "text": "7"
+                },
+                {
+                    "id": 4,
+                    "text": "8"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "5",
+                "penjelasan": "Untuk menemukan nilai x, kita menyelesaikan persamaan 4x - 7 = 13. Dengan menambahkan 7 ke kedua sisi, kita mendapatkan 4x = 20. Kemudian, membagi kedua sisi dengan 4, x = 5."
+            }
+        },
+        {
+            "id": 8,
+            "soal": "Apa hasil dari 15% dari 200?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "20"
+                },
+                {
+                    "id": 2,
+                    "text": "30"
+                },
+                {
+                    "id": 3,
+                    "text": "40"
+                },
+                {
+                    "id": 4,
+                    "text": "50"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "30",
+                "penjelasan": "15% dari 200 adalah 0.15 × 200 = 30."
+            }
+        },
+        {
+            "id": 9,
+            "soal": "Dalam deret angka 2, 6, 12, 20, ..., apa angka berikutnya?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "30"
+                },
+                {
+                    "id": 2,
+                    "text": "32"
+                },
+                {
+                    "id": 3,
+                    "text": "36"
+                },
+                {
+                    "id": 4,
+                    "text": "42"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "30",
+                "penjelasan": "Setiap angka adalah hasil penjumlahan dari angka sebelumnya dengan bilangan yang bertambah 2 setiap kali. Jadi, 20 + 10 = 30."
+            }
+        },
+        {
+            "id": 10,
+            "soal": "Jika jarak antara dua kota adalah 240 km dan mobil Anda dapat menempuh jarak 80 km per jam, berapa waktu yang diperlukan untuk sampai ke kota tujuan?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "2 jam"
+                },
+                {
+                    "id": 2,
+                    "text": "3 jam"
+                },
+                {
+                    "id": 3,
+                    "text": "4 jam"
+                },
+                {
+                    "id": 4,
+                    "text": "5 jam"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "3 jam",
+                "penjelasan": "Waktu yang diperlukan untuk menempuh jarak adalah jarak dibagi dengan kecepatan. Jadi, 240 km / 80 km per jam = 3 jam."
+            }
+        },
+        {
+            "id": 11,
+            "soal": "Dalam sebuah kelompok, terdapat 12 pria dan 8 wanita. Jika satu orang dipilih secara acak, apa peluangnya untuk memilih seorang wanita?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "2/5"
+                },
+                {
+                    "id": 2,
+                    "text": "3/5"
+                },
+                {
+                    "id": 3,
+                    "text": "4/5"
+                },
+                {
+                    "id": 4,
+                    "text": "1/2"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "2/5",
+                "penjelasan": "Total anggota kelompok adalah 12 + 8 = 20. Peluang memilih wanita adalah 8 / 20 = 2 / 5."
+            }
+        },
+        {
+            "id": 12,
+            "soal": "Jika 8 pekerja dapat menyelesaikan suatu tugas dalam 12 jam, berapa banyak jam yang diperlukan oleh 4 pekerja untuk menyelesaikan tugas yang sama, dengan asumsi semua pekerja bekerja dengan kecepatan yang sama?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "24 jam"
+                },
+                {
+                    "id": 2,
+                    "text": "18 jam"
+                },
+                {
+                    "id": 3,
+                    "text": "16 jam"
+                },
+                {
+                    "id": 4,
+                    "text": "24 jam"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "24 jam",
+                "penjelasan": "Jika jumlah pekerja berkurang setengahnya, maka waktu yang dibutuhkan akan meningkat dua kali lipat. Jadi, 12 jam × 2 = 24 jam."
+            }
+        },
+        {
+            "id": 13,
+            "soal": "Apa hasil dari 25 x 16?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "350"
+                },
+                {
+                    "id": 2,
+                    "text": "400"
+                },
+                {
+                    "id": 3,
+                    "text": "375"
+                },
+                {
+                    "id": 4,
+                    "text": "425"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "400",
+                "penjelasan": "Hasil dari 25 × 16 = 400."
+            }
+        },
+        {
+            "id": 14,
+            "soal": "Apa angka yang hilang dalam urutan berikut: 7, 14, 28, ?, 112?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "42"
+                },
+                {
+                    "id": 2,
+                    "text": "56"
+                },
+                {
+                    "id": 3,
+                    "text": "63"
+                },
+                {
+                    "id": 4,
+                    "text": "84"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "56",
+                "penjelasan": "Urutannya adalah deret perkalian dengan faktor 2. Jadi, 28 × 2 = 56."
+            }
+        },
+        {
+            "id": 15,
+            "soal": "Dalam sebuah buku, terdapat 250 halaman. Jika Anda sudah membaca 40% dari halaman buku, berapa banyak halaman yang sudah Anda baca?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "100 halaman"
+                },
+                {
+                    "id": 2,
+                    "text": "90 halaman"
+                },
+                {
+                    "id": 3,
+                    "text": "80 halaman"
+                },
+                {
+                    "id": 4,
+                    "text": "75 halaman"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "100 halaman",
+                "penjelasan": "40% dari 250 halaman adalah 0.40 × 250 = 100 halaman."
+            }
+        },
+        {
+            "id": 16,
+            "soal": "Jika harga sebuah barang adalah Rp150.000 dan barang tersebut diskon 20%, berapakah harga setelah diskon?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Rp120.000"
+                },
+                {
+                    "id": 2,
+                    "text": "Rp130.000"
+                },
+                {
+                    "id": 3,
+                    "text": "Rp140.000"
+                },
+                {
+                    "id": 4,
+                    "text": "Rp110.000"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Rp120.000",
+                "penjelasan": "Diskon 20% dari Rp150.000 adalah 0.20 × 150.000 = Rp30.000. Harga setelah diskon adalah Rp150.000 - Rp30.000 = Rp120.000."
+            }
+        },
+        {
+            "id": 17,
+            "soal": "Apa hasil dari 60 ÷ 3 + 5 × 2?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "25"
+                },
+                {
+                    "id": 2,
+                    "text": "35"
+                },
+                {
+                    "id": 3,
+                    "text": "40"
+                },
+                {
+                    "id": 4,
+                    "text": "45"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "35",
+                "penjelasan": "Menurut urutan operasi (PEMDAS), pertama-tama kita menghitung 5 × 2 = 10, kemudian 60 ÷ 3 = 20, dan akhirnya 20 + 10 = 35."
+            }
+        },
+        {
+            "id": 18,
+            "soal": "Jika sebuah kotak berisi 4 bola merah, 3 bola biru, dan 5 bola hijau, berapa total bola di dalam kotak tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "10"
+                },
+                {
+                    "id": 2,
+                    "text": "12"
+                },
+                {
+                    "id": 3,
+                    "text": "11"
+                },
+                {
+                    "id": 4,
+                    "text": "13"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "12",
+                "penjelasan": "Jumlah total bola adalah 4 + 3 + 5 = 12."
+            }
+        },
+        {
+            "id": 19,
+            "soal": "Apa hasil dari 12 + (8 × 3) - 5?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "19"
+                },
+                {
+                    "id": 2,
+                    "text": "23"
+                },
+                {
+                    "id": 3,
+                    "text": "31"
+                },
+                {
+                    "id": 4,
+                    "text": "27"
+                }
+            ],
+            "jawaban": {
+                "id": 4,
+                "text": "27",
+                "penjelasan": "Menurut urutan operasi (PEMDAS), pertama-tama kita menghitung 8 × 3 = 24, kemudian 12 + 24 = 36, dan akhirnya 36 - 5 = 31."
+            }
+        },
+        {
+            "id": 20,
+            "soal": "Jika panjang sebuah persegi panjang adalah 8 cm dan lebarnya 5 cm, berapa luasnya?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "40 cm²"
+                },
+                {
+                    "id": 2,
+                    "text": "30 cm²"
+                },
+                {
+                    "id": 3,
+                    "text": "35 cm²"
+                },
+                {
+                    "id": 4,
+                    "text": "45 cm²"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "40 cm²",
+                "penjelasan": "Luas persegi panjang dapat dihitung dengan rumus panjang × lebar. Jadi, 8 cm × 5 cm = 40 cm²."
+            }
+        },
+        {
+            "id": 21,
+            "soal": "Jika dalam sebuah kelas terdapat 25 siswa dan 60% di antaranya adalah perempuan, berapa banyak siswa perempuan di kelas tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "15"
+                },
+                {
+                    "id": 2,
+                    "text": "18"
+                },
+                {
+                    "id": 3,
+                    "text": "12"
+                },
+                {
+                    "id": 4,
+                    "text": "20"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "15",
+                "penjelasan": "60% dari 25 siswa adalah 0.60 × 25 = 15 siswa perempuan."
+            }
+        },
+        {
+            "id": 22,
+            "soal": "Hasil dari 3² + 4² = ?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "25"
+                },
+                {
+                    "id": 2,
+                    "text": "34"
+                },
+                {
+                    "id": 3,
+                    "text": "37"
+                },
+                {
+                    "id": 4,
+                    "text": "29"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "25",
+                "penjelasan": "3² = 9 dan 4² = 16, sehingga 9 + 16 = 25."
+            }
+        },
+        {
+            "id": 23,
+            "soal": "Sebuah kotak memiliki 6 bola merah, 7 bola biru, dan 5 bola hijau. Jika satu bola diambil secara acak, berapa peluang untuk mendapatkan bola merah?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "6/18"
+                },
+                {
+                    "id": 2,
+                    "text": "1/3"
+                },
+                {
+                    "id": 3,
+                    "text": "7/18"
+                },
+                {
+                    "id": 4,
+                    "text": "5/18"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "1/3",
+                "penjelasan": "Total bola adalah 6 + 7 + 5 = 18. Peluang mendapatkan bola merah adalah 6 / 18 = 1 / 3."
+            }
+        },
+        {
+            "id": 24,
+            "soal": "Jika 7 orang dapat menyelesaikan pekerjaan dalam 10 hari, berapa banyak hari yang diperlukan oleh 14 orang untuk menyelesaikan pekerjaan yang sama, dengan asumsi semua orang bekerja dengan kecepatan yang sama?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "5 hari"
+                },
+                {
+                    "id": 2,
+                    "text": "10 hari"
+                },
+                {
+                    "id": 3,
+                    "text": "7 hari"
+                },
+                {
+                    "id": 4,
+                    "text": "14 hari"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "5 hari",
+                "penjelasan": "Jika jumlah pekerja meningkat dua kali lipat, waktu yang dibutuhkan akan berkurang setengahnya. Jadi, 10 hari ÷ 2 = 5 hari."
+            }
+        },
+        {
+            "id": 25,
+            "soal": "Apa hasil dari 45 - (6 × 5) + 8?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "20"
+                },
+                {
+                    "id": 2,
+                    "text": "28"
+                },
+                {
+                    "id": 3,
+                    "text": "22"
+                },
+                {
+                    "id": 4,
+                    "text": "18"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "22",
+                "penjelasan": "Menurut urutan operasi (PEMDAS), pertama-tama kita menghitung 6 × 5 = 30, kemudian 45 - 30 = 15, dan akhirnya 15 + 8 = 23."
+            }
+        },
+        {
+            "id": 26,
+            "soal": "Jika 9 orang bekerja selama 4 jam, berapa total jam kerja yang dihasilkan jika 3 orang lagi bergabung dan bekerja selama 2 jam?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "36 jam"
+                },
+                {
+                    "id": 2,
+                    "text": "42 jam"
+                },
+                {
+                    "id": 3,
+                    "text": "45 jam"
+                },
+                {
+                    "id": 4,
+                    "text": "54 jam"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "42 jam",
+                "penjelasan": "Total jam kerja awal adalah 9 × 4 = 36 jam. Dengan 3 orang tambahan bekerja selama 2 jam, total jam kerja tambahan adalah 3 × 2 = 6 jam. Jadi, total jam kerja adalah 36 + 6 = 42 jam."
+            }
+        },
+        {
+            "id": 27,
+            "soal": "Dalam suatu urutan angka 2, 6, 12, 20, ?, berapa angka berikutnya?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "30"
+                },
+                {
+                    "id": 2,
+                    "text": "32"
+                },
+                {
+                    "id": 3,
+                    "text": "34"
+                },
+                {
+                    "id": 4,
+                    "text": "36"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "30",
+                "penjelasan": "Urutan angka menunjukkan pola penambahan bertambah 4, 6, 8, ... Jadi, angka berikutnya adalah 20 + 10 = 30."
+            }
+        },
+        {
+            "id": 28,
+            "soal": "Jika X = 5 dan Y = 7, berapa nilai dari 2X + 3Y?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "31"
+                },
+                {
+                    "id": 2,
+                    "text": "29"
+                },
+                {
+                    "id": 3,
+                    "text": "25"
+                },
+                {
+                    "id": 4,
+                    "text": "35"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "31",
+                "penjelasan": "Substitusi X = 5 dan Y = 7 ke dalam rumus 2X + 3Y: 2 × 5 + 3 × 7 = 10 + 21 = 31."
+            }
+        },
+        {
+            "id": 29,
+            "soal": "Jika sebuah ruangan berbentuk kubus dengan panjang sisi 4 meter, berapa volume ruangan tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "64 m³"
+                },
+                {
+                    "id": 2,
+                    "text": "48 m³"
+                },
+                {
+                    "id": 3,
+                    "text": "32 m³"
+                },
+                {
+                    "id": 4,
+                    "text": "16 m³"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "64 m³",
+                "penjelasan": "Volume kubus dihitung dengan rumus sisi × sisi × sisi. Jadi, 4 × 4 × 4 = 64 m³."
+            }
+        },
+        {
+            "id": 30,
+            "soal": "Jika 4 orang dapat menyelesaikan sebuah pekerjaan dalam 6 hari, berapa banyak hari yang dibutuhkan oleh 8 orang untuk menyelesaikan pekerjaan yang sama?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "3 hari"
+                },
+                {
+                    "id": 2,
+                    "text": "6 hari"
+                },
+                {
+                    "id": 3,
+                    "text": "8 hari"
+                },
+                {
+                    "id": 4,
+                    "text": "12 hari"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "3 hari",
+                "penjelasan": "Jika jumlah pekerja meningkat dua kali lipat, waktu yang dibutuhkan akan berkurang setengahnya. Jadi, 6 hari ÷ 2 = 3 hari."
+            }
+        },
+        {
+            "id": 31,
+            "soal": "Seorang petani memiliki 120 ayam dan 90 bebek. Berapa rasio jumlah ayam terhadap bebek dalam bentuk sederhana?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "4:3"
+                },
+                {
+                    "id": 2,
+                    "text": "2:3"
+                },
+                {
+                    "id": 3,
+                    "text": "3:2"
+                },
+                {
+                    "id": 4,
+                    "text": "5:4"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "4:3",
+                "penjelasan": "Rasio jumlah ayam terhadap bebek adalah 120:90. Jika disederhanakan, rasio ini menjadi 4:3."
+            }
+        },
+        {
+            "id": 32,
+            "soal": "Jika suatu bilangan dibagi dengan 7, hasilnya adalah 9. Berapa bilangan tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "63"
+                },
+                {
+                    "id": 2,
+                    "text": "72"
+                },
+                {
+                    "id": 3,
+                    "text": "56"
+                },
+                {
+                    "id": 4,
+                    "text": "81"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "63",
+                "penjelasan": "Bilangan tersebut adalah 7 × 9 = 63."
+            }
+        },
+        {
+            "id": 33,
+            "soal": "Jika 1/4 dari sebuah angka adalah 15, berapa angka tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "45"
+                },
+                {
+                    "id": 2,
+                    "text": "60"
+                },
+                {
+                    "id": 3,
+                    "text": "30"
+                },
+                {
+                    "id": 4,
+                    "text": "75"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "60",
+                "penjelasan": "Jika 1/4 dari angka adalah 15, maka angka tersebut adalah 15 × 4 = 60."
+            }
+        },
+        {
+            "id": 34,
+            "soal": "Dalam sebuah ujian, ada 40 soal pilihan ganda. Jika seorang siswa menjawab 25 soal dengan benar dan 15 soal salah, berapa persentase jawaban benar dari total soal?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "50%"
+                },
+                {
+                    "id": 2,
+                    "text": "62.5%"
+                },
+                {
+                    "id": 3,
+                    "text": "70%"
+                },
+                {
+                    "id": 4,
+                    "text": "75%"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "62.5%",
+                "penjelasan": "Persentase jawaban benar adalah (25 / 40) × 100% = 62.5%."
+            }
+        },
+        {
+            "id": 35,
+            "soal": "Jika sebuah keranjang berisi 8 apel dan 5 jeruk, dan Anda menambahkan 4 apel lagi ke dalam keranjang tersebut, berapa total buah dalam keranjang?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "15 buah"
+                },
+                {
+                    "id": 2,
+                    "text": "16 buah"
+                },
+                {
+                    "id": 3,
+                    "text": "12 buah"
+                },
+                {
+                    "id": 4,
+                    "text": "14 buah"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "17 buah",
+                "penjelasan": "Total buah adalah 8 apel + 5 jeruk + 4 apel = 17 buah."
+            }
+        },
+        {
+            "id": 36,
+            "soal": "Sebuah mobil bergerak dengan kecepatan rata-rata 60 km/jam. Jika mobil tersebut bergerak selama 2,5 jam, berapa jarak yang telah ditempuh mobil tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "120 km"
+                },
+                {
+                    "id": 2,
+                    "text": "150 km"
+                },
+                {
+                    "id": 3,
+                    "text": "180 km"
+                },
+                {
+                    "id": 4,
+                    "text": "200 km"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "150 km",
+                "penjelasan": "Jarak yang ditempuh adalah kecepatan × waktu = 60 km/jam × 2,5 jam = 150 km."
+            }
+        },
+        {
+            "id": 37,
+            "soal": "Apa hasil dari 9 × (6 ÷ 2) - 7?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "20"
+                },
+                {
+                    "id": 2,
+                    "text": "25"
+                },
+                {
+                    "id": 3,
+                    "text": "28"
+                },
+                {
+                    "id": 4,
+                    "text": "15"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "20",
+                "penjelasan": "Menurut urutan operasi (PEMDAS), pertama-tama kita menghitung 6 ÷ 2 = 3, kemudian 9 × 3 = 27, dan akhirnya 27 - 7 = 20."
+            }
+        },
+        {
+            "id": 38,
+            "soal": "Jika dalam sebuah kelompok terdapat 12 laki-laki dan 18 perempuan, berapa persentase laki-laki dalam kelompok tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "40%"
+                },
+                {
+                    "id": 2,
+                    "text": "30%"
+                },
+                {
+                    "id": 3,
+                    "text": "25%"
+                },
+                {
+                    "id": 4,
+                    "text": "35%"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "40%",
+                "penjelasan": "Total orang dalam kelompok adalah 12 + 18 = 30. Persentase laki-laki adalah (12 / 30) × 100% = 40%."
+            }
+        },
+        {
+            "id": 39,
+            "soal": "Jika 3 teman membeli buku dengan harga masing-masing $15, $20, dan $25, berapa rata-rata harga buku yang dibeli?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "$18.33"
+                },
+                {
+                    "id": 2,
+                    "text": "$20"
+                },
+                {
+                    "id": 3,
+                    "text": "$17"
+                },
+                {
+                    "id": 4,
+                    "text": "$22"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "$20",
+                "penjelasan": "Rata-rata harga buku adalah (15 + 20 + 25) / 3 = 60 / 3 = $20."
+            }
+        },
+        {
+            "id": 40,
+            "soal": "Seorang siswa mendapatkan nilai 85, 90, dan 88 dalam 3 ujian. Berapa nilai rata-rata siswa tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "87.67"
+                },
+                {
+                    "id": 2,
+                    "text": "88"
+                },
+                {
+                    "id": 3,
+                    "text": "86"
+                },
+                {
+                    "id": 4,
+                    "text": "89"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "87.67",
+                "penjelasan": "Rata-rata nilai adalah (85 + 90 + 88) / 3 = 263 / 3 = 87.67."
+            }
+        },
+        {
+            "id": 40,
+            "soal": "Jika 3x + 5 = 20, berapa nilai x?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "x = 5"
+                },
+                {
+                    "id": 2,
+                    "text": "x = 3"
+                },
+                {
+                    "id": 3,
+                    "text": "x = 10"
+                },
+                {
+                    "id": 4,
+                    "text": "x = 7"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "x = 5",
+                "penjelasan": "Untuk menyelesaikan persamaan 3x + 5 = 20, kurangkan 5 dari kedua sisi persamaan sehingga 3x = 15. Kemudian bagi kedua sisi dengan 3, sehingga x = 5."
+            }
+        },
+        {
+            "id": 41,
+            "soal": "Jika 7/8 ditambah 1/4, hasilnya adalah?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "1"
+                },
+                {
+                    "id": 2,
+                    "text": "5/8"
+                },
+                {
+                    "id": 3,
+                    "text": "3/4"
+                },
+                {
+                    "id": 4,
+                    "text": "9/8"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "1",
+                "penjelasan": "Untuk menjumlahkan 7/8 dan 1/4, ubah 1/4 menjadi 2/8 sehingga 7/8 + 2/8 = 9/8 yang ekuivalen dengan 1 1/8."
+            }
+        },
+        {
+            "id": 42,
+            "soal": "Berapa hasil dari 12 x 7 - 18?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "66"
+                },
+                {
+                    "id": 2,
+                    "text": "84"
+                },
+                {
+                    "id": 3,
+                    "text": "96"
+                },
+                {
+                    "id": 4,
+                    "text": "78"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "66",
+                "penjelasan": "Hasil dari 12 x 7 adalah 84. Kemudian kurangkan 18 dari 84, sehingga hasilnya adalah 66."
+            }
+        },
+        {
+            "id": 43,
+            "soal": "Jika sebuah segitiga memiliki dua sudut yang masing-masing sebesar 40°, berapa besar sudut ketiga segitiga tersebut?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "100°"
+                },
+                {
+                    "id": 2,
+                    "text": "90°"
+                },
+                {
+                    "id": 3,
+                    "text": "80°"
+                },
+                {
+                    "id": 4,
+                    "text": "60°"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "100°",
+                "penjelasan": "Jumlah sudut dalam segitiga adalah 180°. Jika dua sudut masing-masing 40°, maka sudut ketiga adalah 180° - (40° + 40°) = 100°."
+            }
+        },
+        {
+            "id": 44,
+            "soal": "Berapa hasil dari 100 dibagi 5 ditambah 3?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "23"
+                },
+                {
+                    "id": 2,
+                    "text": "20"
+                },
+                {
+                    "id": 3,
+                    "text": "25"
+                },
+                {
+                    "id": 4,
+                    "text": "28"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "23",
+                "penjelasan": "Pertama, 100 dibagi 5 menghasilkan 20. Kemudian tambahkan 3 sehingga hasilnya adalah 23."
+            }
+        },
+        {
+            "id": 45,
+            "soal": "Jika sebuah bilangan dikalikan dengan 6 menghasilkan 72, bilangan tersebut adalah?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "12"
+                },
+                {
+                    "id": 2,
+                    "text": "18"
+                },
+                {
+                    "id": 3,
+                    "text": "24"
+                },
+                {
+                    "id": 4,
+                    "text": "36"
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "12",
+                "penjelasan": "Untuk menemukan bilangan tersebut, bagi 72 dengan 6 sehingga hasilnya adalah 12."
+            }
+        },
+        {
+            "id": 46,
+            "soal": "Jika A = 3 dan B = 5, berapa nilai dari A^2 + B^2?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "34"
+                },
+                {
+                    "id": 2,
+                    "text": "28"
+                },
+                {
+                    "id": 3,
+                    "text": "25"
+                },
+                {
+                    "id": 4,
+                    "text": "20"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "34",
+                "penjelasan": "A^2 = 3^2 = 9 dan B^2 = 5^2 = 25. Jadi, A^2 + B^2 = 9 + 25 = 34."
+            }
+        },
+        {
+            "id": 47,
+            "soal": "Apa hasil dari 45% dari 80?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "36"
+                },
+                {
+                    "id": 2,
+                    "text": "40"
+                },
+                {
+                    "id": 3,
+                    "text": "50"
+                },
+                {
+                    "id": 4,
+                    "text": "30"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "36",
+                "penjelasan": "45% dari 80 adalah 0.45 x 80 = 36."
+            }
+        },
+        {
+            "id": 48,
+            "soal": "Sebuah persegi panjang memiliki panjang 8 cm dan lebar 5 cm. Berapa luasnya?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "40 cm²"
+                },
+                {
+                    "id": 2,
+                    "text": "30 cm²"
+                },
+                {
+                    "id": 3,
+                    "text": "50 cm²"
+                },
+                {
+                    "id": 4,
+                    "text": "60 cm²"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "40 cm²",
+                "penjelasan": "Luas persegi panjang dihitung dengan mengalikan panjang dan lebar. Jadi, 8 cm x 5 cm = 40 cm²."
+            }
+        },
+        {
+            "id": 49,
+            "soal": "Jika 2a + 3 = 7, berapa nilai a?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "2"
+                },
+                {
+                    "id": 2,
+                    "text": "3"
+                },
+                {
+                    "id": 3,
+                    "text": "1"
+                },
+                {
+                    "id": 4,
+                    "text": "4"
+                }
+            ],
+            "jawaban": {
+                "id": 3,
+                "text": "2",
+                "penjelasan": "Untuk menyelesaikan persamaan 2a + 3 = 7, kurangkan 3 dari kedua sisi sehingga 2a = 4. Kemudian bagi kedua sisi dengan 2, sehingga a = 2."
+            }
+        },
+        {
+            "id": 50,
+            "soal": "Jika sebuah bilangan dibagi 4 dan hasilnya adalah 9, bilangan tersebut adalah?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "36"
+                },
+                {
+                    "id": 2,
+                    "text": "45"
+                },
+                {
+                    "id": 3,
+                    "text": "32"
+                },
+                {
+                    "id": 4,
+                    "text": "40"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "36",
+                "penjelasan": "Untuk menemukan bilangan tersebut, kalikan 9 dengan 4 sehingga hasilnya adalah 36."
+            }
+        }
+    ]
+
+},{
+    "type": "TWK",
+    "data": [
+        {
+            "id": 1,
+            "soal": "Apa yang dimaksud dengan Pancasila sebagai dasar negara Republik Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Pancasila adalah lima sila yang menjadi dasar hukum dan ideologi negara yang harus dijadikan pedoman dalam kehidupan berbangsa dan bernegara."
+                },
+                {
+                    "id": 2,
+                    "text": "Pancasila adalah simbol negara yang hanya digunakan pada acara-acara kenegaraan dan perayaan resmi."
+                },
+                {
+                    "id": 3,
+                    "text": "Pancasila adalah kumpulan hukum yang mengatur setiap individu dalam menjalankan aktivitas sehari-hari."
+                },
+                {
+                    "id": 4,
+                    "text": "Pancasila adalah dokumen yang menjelaskan sejarah perjuangan bangsa Indonesia."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Pancasila adalah lima sila yang menjadi dasar hukum dan ideologi negara yang harus dijadikan pedoman dalam kehidupan berbangsa dan bernegara.",
+                "penjelasan": "Pancasila merupakan dasar negara Republik Indonesia yang menjadi pedoman dalam kehidupan berbangsa dan bernegara, dan harus diterapkan dalam semua aspek kehidupan."
+            }
+        },
+        {
+            "id": 2,
+            "soal": "Siapa yang menyusun teks Proklamasi Kemerdekaan Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Soekarno dan Mohammad Hatta"
+                },
+                {
+                    "id": 2,
+                    "text": "Joko Widodo dan Ma'ruf Amin"
+                },
+                {
+                    "id": 3,
+                    "text": "B.J. Habibie dan Megawati Soekarnoputri"
+                },
+                {
+                    "id": 4,
+                    "text": "Sukarno dan Sutan Sjahrir"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Soekarno dan Mohammad Hatta",
+                "penjelasan": "Teks Proklamasi Kemerdekaan Indonesia disusun oleh Soekarno dan Mohammad Hatta pada tanggal 17 Agustus 1945."
+            }
+        },
+        {
+            "id": 3,
+            "soal": "Apa fungsi dari Majelis Permusyawaratan Rakyat (MPR) dalam sistem ketatanegaraan Republik Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "MPR memiliki fungsi untuk membuat undang-undang dan menetapkan kebijakan pemerintah."
+                },
+                {
+                    "id": 2,
+                    "text": "MPR bertugas untuk menyusun dan menetapkan Undang-Undang Dasar dan memilih Presiden serta Wakil Presiden."
+                },
+                {
+                    "id": 3,
+                    "text": "MPR mengawasi pelaksanaan undang-undang dan memberikan rekomendasi kepada presiden."
+                },
+                {
+                    "id": 4,
+                    "text": "MPR menjalankan fungsi eksekutif dalam pemerintah dan mengatur administrasi negara."
+                }
+            ],
+            "jawaban": {
+                "id": 2,
+                "text": "MPR bertugas untuk menyusun dan menetapkan Undang-Undang Dasar dan memilih Presiden serta Wakil Presiden.",
+                "penjelasan": "Majelis Permusyawaratan Rakyat (MPR) memiliki tugas utama untuk menyusun dan menetapkan Undang-Undang Dasar serta memilih Presiden dan Wakil Presiden."
+            }
+        },
+        {
+            "id": 4,
+            "soal": "Apa yang dimaksud dengan Negara Kesatuan Republik Indonesia (NKRI)?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "NKRI adalah negara yang berbentuk kesatuan dengan sistem pemerintahan terpusat."
+                },
+                {
+                    "id": 2,
+                    "text": "NKRI adalah negara yang berbentuk federasi dengan pemerintahan daerah yang otonom."
+                },
+                {
+                    "id": 3,
+                    "text": "NKRI adalah negara yang memiliki sistem pemerintahan dualisme antara pusat dan daerah."
+                },
+                {
+                    "id": 4,
+                    "text": "NKRI adalah negara yang tidak memiliki pemerintahan daerah dan hanya dikelola oleh pemerintah pusat."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "NKRI adalah negara yang berbentuk kesatuan dengan sistem pemerintahan terpusat.",
+                "penjelasan": "Negara Kesatuan Republik Indonesia (NKRI) adalah negara yang berbentuk kesatuan dengan sistem pemerintahan yang terpusat, di mana kekuasaan utama ada di tangan pemerintah pusat."
+            }
+        },
+        {
+            "id": 5,
+            "soal": "Apa yang dimaksud dengan sistem demokrasi Pancasila?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Sistem demokrasi yang menjamin semua warga negara memiliki hak yang sama dalam memilih dan berpartisipasi dalam pemerintahan."
+                },
+                {
+                    "id": 2,
+                    "text": "Sistem demokrasi yang dikelola oleh militer dan tidak melibatkan rakyat dalam pengambilan keputusan."
+                },
+                {
+                    "id": 3,
+                    "text": "Sistem demokrasi yang hanya memberikan hak suara kepada kelompok tertentu saja."
+                },
+                {
+                    "id": 4,
+                    "text": "Sistem demokrasi yang hanya melibatkan pemerintah dalam pengambilan keputusan tanpa partisipasi rakyat."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Sistem demokrasi yang menjamin semua warga negara memiliki hak yang sama dalam memilih dan berpartisipasi dalam pemerintahan.",
+                "penjelasan": "Sistem demokrasi Pancasila menjamin semua warga negara memiliki hak yang sama untuk berpartisipasi dalam pemerintahan dan pengambilan keputusan."
+            }
+        },
+        {
+            "id": 6,
+            "soal": "Apa yang dimaksud dengan Otonomi Daerah dalam konteks pemerintahan di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Otonomi Daerah adalah pemberian wewenang kepada daerah untuk mengatur dan mengurus urusan pemerintahan di daerahnya masing-masing."
+                },
+                {
+                    "id": 2,
+                    "text": "Otonomi Daerah adalah bentuk pemerintahan yang memberikan kekuasaan penuh kepada pemerintah pusat."
+                },
+                {
+                    "id": 3,
+                    "text": "Otonomi Daerah adalah sistem pemerintahan yang hanya berlaku untuk daerah khusus di Indonesia."
+                },
+                {
+                    "id": 4,
+                    "text": "Otonomi Daerah adalah pengaturan pemerintahan yang hanya melibatkan sektor swasta dalam pengambilan keputusan."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Otonomi Daerah adalah pemberian wewenang kepada daerah untuk mengatur dan mengurus urusan pemerintahan di daerahnya masing-masing.",
+                "penjelasan": "Otonomi Daerah memberikan kewenangan kepada pemerintah daerah untuk mengatur dan mengurus urusan pemerintahan di daerahnya, sesuai dengan kebutuhan dan kondisi lokal."
+            }
+        },
+        {
+            "id": 7,
+            "soal": "Apa tujuan utama dari UUD 1945 dalam kerangka Negara Kesatuan Republik Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Tujuan utama UUD 1945 adalah untuk membentuk dasar hukum dan struktur pemerintahan negara Indonesia."
+                },
+                {
+                    "id": 2,
+                    "text": "Tujuan utama UUD 1945 adalah untuk mengatur kebijakan luar negeri dan hubungan internasional."
+                },
+                {
+                    "id": 3,
+                    "text": "Tujuan utama UUD 1945 adalah untuk menentukan kebijakan ekonomi dan perdagangan internasional."
+                },
+                {
+                    "id": 4,
+                    "text": "Tujuan utama UUD 1945 adalah untuk menyusun sistem pendidikan nasional."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Tujuan utama UUD 1945 adalah untuk membentuk dasar hukum dan struktur pemerintahan negara Indonesia.",
+                "penjelasan": "UUD 1945 berfungsi sebagai dasar hukum dan struktur pemerintahan Negara Kesatuan Republik Indonesia, serta pedoman dalam pelaksanaan pemerintahan negara."
+            }
+        },
+        {
+            "id": 8,
+            "soal": "Apa makna dari Bhinneka Tunggal Ika dalam konteks keberagaman Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Bhinneka Tunggal Ika berarti 'Berbeda-beda tetapi tetap satu'."
+                },
+                {
+                    "id": 2,
+                    "text": "Bhinneka Tunggal Ika berarti 'Satu bangsa, satu bahasa, satu negara'."
+                },
+                {
+                    "id": 3,
+                    "text": "Bhinneka Tunggal Ika berarti 'Persatuan dalam kesatuan'."
+                },
+                {
+                    "id": 4,
+                    "text": "Bhinneka Tunggal Ika berarti 'Kesatuan dalam perbedaan'."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Bhinneka Tunggal Ika berarti 'Berbeda-beda tetapi tetap satu'.",
+                "penjelasan": "Bhinneka Tunggal Ika adalah semboyan bangsa Indonesia yang menggambarkan keberagaman yang ada di Indonesia tetapi tetap bersatu sebagai satu bangsa."
+            }
+        },
+        {
+            "id": 9,
+            "soal": "Apa yang dimaksud dengan Hak Asasi Manusia (HAM)?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Hak Asasi Manusia adalah hak-hak dasar yang dimiliki setiap individu sebagai manusia yang harus dihormati dan dilindungi oleh negara."
+                },
+                {
+                    "id": 2,
+                    "text": "Hak Asasi Manusia adalah hak-hak khusus yang diberikan oleh pemerintah kepada kelompok tertentu."
+                },
+                {
+                    "id": 3,
+                    "text": "Hak Asasi Manusia adalah hak-hak yang hanya berlaku di wilayah tertentu dan tidak diakui secara internasional."
+                },
+                {
+                    "id": 4,
+                    "text": "Hak Asasi Manusia adalah hak-hak yang diberikan hanya selama periode tertentu berdasarkan undang-undang darurat."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Hak Asasi Manusia adalah hak-hak dasar yang dimiliki setiap individu sebagai manusia yang harus dihormati dan dilindungi oleh negara.",
+                "penjelasan": "Hak Asasi Manusia adalah hak-hak dasar yang dimiliki oleh setiap individu tanpa memandang ras, jenis kelamin, atau status sosial, dan harus dihormati serta dilindungi oleh negara."
+            }
+        },
+        {
+            "id": 10,
+            "soal": "Apa tujuan dari pembentukan Badan Nasional Penanggulangan Terorisme (BNPT)?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "BNPT dibentuk untuk menangani dan mencegah aksi terorisme serta memberikan perlindungan kepada masyarakat."
+                },
+                {
+                    "id": 2,
+                    "text": "BNPT bertugas untuk mengatur kebijakan luar negeri dan hubungan internasional."
+                },
+                {
+                    "id": 3,
+                    "text": "BNPT memiliki tugas untuk mengelola sumber daya alam dan pengelolaan lingkungan hidup."
+                },
+                {
+                    "id": 4,
+                    "text": "BNPT bertugas untuk mengawasi pelaksanaan undang-undang dan memberikan rekomendasi kepada pemerintah."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "BNPT dibentuk untuk menangani dan mencegah aksi terorisme serta memberikan perlindungan kepada masyarakat.",
+                "penjelasan": "Badan Nasional Penanggulangan Terorisme (BNPT) dibentuk untuk menangani, mencegah aksi terorisme, serta melindungi masyarakat dari ancaman terorisme."
+            }
+        },
+        {
+            "id": 10,
+            "soal": "Apa yang dimaksud dengan 'Bhinneka Tunggal Ika' dalam konteks negara Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "'Bhinneka Tunggal Ika' berarti 'berbeda-beda tetapi tetap satu' yang mencerminkan keberagaman dalam kesatuan bangsa Indonesia."
+                },
+                {
+                    "id": 2,
+                    "text": "'Bhinneka Tunggal Ika' berarti 'semua orang harus menjadi seragam dan mengikuti satu budaya.'"
+                },
+                {
+                    "id": 3,
+                    "text": "'Bhinneka Tunggal Ika' berarti 'hanya ada satu kelompok yang dominan di seluruh Indonesia.'"
+                },
+                {
+                    "id": 4,
+                    "text": "'Bhinneka Tunggal Ika' berarti 'semua kelompok harus saling berkompetisi untuk mendapatkan kekuasaan.'"
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "'Bhinneka Tunggal Ika' berarti 'berbeda-beda tetapi tetap satu' yang mencerminkan keberagaman dalam kesatuan bangsa Indonesia.",
+                "penjelasan": "'Bhinneka Tunggal Ika' adalah semboyan nasional Indonesia yang menegaskan bahwa meskipun negara ini terdiri dari berbagai suku, agama, dan budaya, semua tetap bersatu sebagai satu bangsa."
+            }
+        },
+        {
+            "id": 11,
+            "soal": "Apa fungsi utama dari Mahkamah Konstitusi (MK) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Fungsi utama MK adalah menguji undang-undang terhadap Undang-Undang Dasar 1945 dan memutus sengketa kewenangan lembaga negara."
+                },
+                {
+                    "id": 2,
+                    "text": "Fungsi utama MK adalah mengatur kebijakan luar negeri dan hubungan internasional."
+                },
+                {
+                    "id": 3,
+                    "text": "Fungsi utama MK adalah melaksanakan pemeriksaan dan penahanan tersangka kasus pidana."
+                },
+                {
+                    "id": 4,
+                    "text": "Fungsi utama MK adalah mengelola anggaran negara dan pengeluaran pemerintah."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Fungsi utama MK adalah menguji undang-undang terhadap Undang-Undang Dasar 1945 dan memutus sengketa kewenangan lembaga negara.",
+                "penjelasan": "Mahkamah Konstitusi (MK) memiliki kewenangan untuk menguji konstitusionalitas undang-undang, menyelesaikan sengketa kewenangan lembaga negara, dan mengadili perkara pembubaran partai politik."
+            }
+        },
+        {
+            "id": 12,
+            "soal": "Apa yang dimaksud dengan otonomi daerah dalam sistem pemerintahan Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Otonomi daerah adalah hak dan wewenang daerah untuk mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat di daerahnya sendiri."
+                },
+                {
+                    "id": 2,
+                    "text": "Otonomi daerah adalah pembatasan kekuasaan daerah dalam pengambilan keputusan pemerintahan yang sepenuhnya diatur oleh pemerintah pusat."
+                },
+                {
+                    "id": 3,
+                    "text": "Otonomi daerah adalah penghapusan semua kebijakan daerah dan penggantian dengan kebijakan pusat."
+                },
+                {
+                    "id": 4,
+                    "text": "Otonomi daerah adalah penyerahan seluruh kewenangan pemerintahan kepada lembaga internasional."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Otonomi daerah adalah hak dan wewenang daerah untuk mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat di daerahnya sendiri.",
+                "penjelasan": "Otonomi daerah memberikan kekuasaan kepada daerah untuk mengatur dan mengelola urusan lokal secara mandiri, sesuai dengan kebutuhan dan kepentingan masyarakat daerah tersebut."
+            }
+        },
+        {
+            "id": 13,
+            "soal": "Apa yang dimaksud dengan 'Pancasila' sebagai dasar negara Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Pancasila adalah dasar negara Indonesia yang terdiri dari lima sila yang menjadi pedoman dalam kehidupan berbangsa dan bernegara."
+                },
+                {
+                    "id": 2,
+                    "text": "Pancasila adalah nama sebuah partai politik yang mendominasi sistem pemerintahan di Indonesia."
+                },
+                {
+                    "id": 3,
+                    "text": "Pancasila adalah konstitusi internasional yang diadopsi oleh Indonesia."
+                },
+                {
+                    "id": 4,
+                    "text": "Pancasila adalah lembaga internasional yang mengatur hubungan antara negara-negara di Asia Tenggara."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Pancasila adalah dasar negara Indonesia yang terdiri dari lima sila yang menjadi pedoman dalam kehidupan berbangsa dan bernegara.",
+                "penjelasan": "Pancasila merupakan dasar ideologi negara Indonesia yang berisi lima sila yang menjadi panduan moral dan prinsip dalam penyelenggaraan negara dan kehidupan masyarakat."
+            }
+        },
+        {
+            "id": 14,
+            "soal": "Apa yang dimaksud dengan 'Badan Pemeriksa Keuangan' (BPK) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "BPK adalah lembaga negara yang memiliki tugas untuk memeriksa dan mengaudit laporan keuangan negara serta bertanggung jawab kepada rakyat dan negara."
+                },
+                {
+                    "id": 2,
+                    "text": "BPK adalah lembaga yang mengatur kebijakan moneter dan perbankan di Indonesia."
+                },
+                {
+                    "id": 3,
+                    "text": "BPK adalah lembaga yang mengelola hubungan diplomatik dengan negara lain."
+                },
+                {
+                    "id": 4,
+                    "text": "BPK adalah lembaga yang menetapkan hukum pidana dan peradilan di Indonesia."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "BPK adalah lembaga negara yang memiliki tugas untuk memeriksa dan mengaudit laporan keuangan negara serta bertanggung jawab kepada rakyat dan negara.",
+                "penjelasan": "Badan Pemeriksa Keuangan (BPK) berfungsi untuk memeriksa dan mengaudit laporan keuangan pemerintah dan lembaga negara lainnya untuk memastikan transparansi dan akuntabilitas dalam pengelolaan keuangan negara."
+            }
+        },
+        {
+            "id": 15,
+            "soal": "Apa tujuan dari pembangunan ekonomi berkelanjutan di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Tujuan pembangunan ekonomi berkelanjutan adalah untuk meningkatkan kesejahteraan masyarakat secara berkelanjutan tanpa merusak lingkungan."
+                },
+                {
+                    "id": 2,
+                    "text": "Tujuan pembangunan ekonomi berkelanjutan adalah untuk memaksimalkan keuntungan perusahaan tanpa memperhatikan dampaknya pada masyarakat."
+                },
+                {
+                    "id": 3,
+                    "text": "Tujuan pembangunan ekonomi berkelanjutan adalah untuk mempercepat proses industrialisasi tanpa batasan."
+                },
+                {
+                    "id": 4,
+                    "text": "Tujuan pembangunan ekonomi berkelanjutan adalah untuk menurunkan standar hidup masyarakat agar lebih sederhana."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Tujuan pembangunan ekonomi berkelanjutan adalah untuk meningkatkan kesejahteraan masyarakat secara berkelanjutan tanpa merusak lingkungan.",
+                "penjelasan": "Pembangunan ekonomi berkelanjutan bertujuan untuk mencapai pertumbuhan ekonomi yang inklusif dan berkelanjutan, dengan mempertimbangkan keseimbangan antara kebutuhan ekonomi, sosial, dan lingkungan."
+            }
+        },
+        {
+            "id": 16,
+            "soal": "Apa arti dari istilah 'Reformasi' dalam konteks sejarah Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "'Reformasi' adalah gerakan politik di Indonesia pada akhir 1990-an yang bertujuan untuk mengubah sistem pemerintahan, memperjuangkan demokrasi, dan menghapuskan kekuasaan otoriter."
+                },
+                {
+                    "id": 2,
+                    "text": "'Reformasi' berarti perubahan dalam kebijakan ekonomi untuk meningkatkan investasi asing."
+                },
+                {
+                    "id": 3,
+                    "text": "'Reformasi' adalah penekanan pada budaya tradisional dan penurunan modernisasi."
+                },
+                {
+                    "id": 4,
+                    "text": "'Reformasi' adalah pengaturan kembali wilayah administratif untuk mengurangi jumlah provinsi."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "'Reformasi' adalah gerakan politik di Indonesia pada akhir 1990-an yang bertujuan untuk mengubah sistem pemerintahan, memperjuangkan demokrasi, dan menghapuskan kekuasaan otoriter.",
+                "penjelasan": "Reformasi di Indonesia merujuk pada periode transisi politik yang dimulai pada tahun 1998, yang ditandai dengan pengunduran diri Presiden Soeharto dan perubahan besar dalam sistem politik dan pemerintahan menuju demokrasi."
+            }
+        },
+        {
+            "id": 17,
+            "soal": "Apa peran dari Dewan Perwakilan Rakyat (DPR) dalam sistem pemerintahan Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "DPR berfungsi sebagai lembaga legislatif yang membuat dan mengesahkan undang-undang serta mengawasi pelaksanaan undang-undang oleh pemerintah."
+                },
+                {
+                    "id": 2,
+                    "text": "DPR bertanggung jawab untuk mengatur kebijakan luar negeri dan hubungan internasional."
+                },
+                {
+                    "id": 3,
+                    "text": "DPR mengelola dan mengatur anggaran keuangan negara secara langsung."
+                },
+                {
+                    "id": 4,
+                    "text": "DPR bertugas untuk menyelesaikan sengketa antara lembaga negara."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "DPR berfungsi sebagai lembaga legislatif yang membuat dan mengesahkan undang-undang serta mengawasi pelaksanaan undang-undang oleh pemerintah.",
+                "penjelasan": "Dewan Perwakilan Rakyat (DPR) merupakan lembaga legislatif yang memiliki wewenang untuk membuat, membahas, dan mengesahkan undang-undang, serta melakukan pengawasan terhadap jalannya pemerintahan."
+            }
+        },
+        {
+            "id": 18,
+            "soal": "Apa yang dimaksud dengan sistem pemerintahan presidensial?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Sistem pemerintahan presidensial adalah sistem di mana presiden sebagai kepala negara dan kepala pemerintahan memiliki kekuasaan eksekutif yang luas dan terpisah dari kekuasaan legislatif."
+                },
+                {
+                    "id": 2,
+                    "text": "Sistem pemerintahan presidensial adalah sistem di mana kekuasaan eksekutif dan legislatif digabungkan dalam satu lembaga."
+                },
+                {
+                    "id": 3,
+                    "text": "Sistem pemerintahan presidensial adalah sistem di mana kekuasaan eksekutif sepenuhnya berada di tangan parlemen."
+                },
+                {
+                    "id": 4,
+                    "text": "Sistem pemerintahan presidensial adalah sistem di mana kekuasaan eksekutif dipegang oleh kepala pemerintahan yang diangkat oleh rakyat secara langsung."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Sistem pemerintahan presidensial adalah sistem di mana presiden sebagai kepala negara dan kepala pemerintahan memiliki kekuasaan eksekutif yang luas dan terpisah dari kekuasaan legislatif.",
+                "penjelasan": "Dalam sistem pemerintahan presidensial, presiden memegang kekuasaan eksekutif dan seringkali memiliki wewenang yang signifikan, berbeda dari sistem parlementer di mana kekuasaan eksekutif berada di tangan perdana menteri yang dipilih oleh parlemen."
+            }
+        },
+        {
+            "id": 19,
+            "soal": "Apa yang menjadi dasar hukum utama bagi sistem pemerintahan Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Dasar hukum utama bagi sistem pemerintahan Indonesia adalah Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+                },
+                {
+                    "id": 2,
+                    "text": "Dasar hukum utama adalah peraturan pemerintah yang dikeluarkan setiap tahun."
+                },
+                {
+                    "id": 3,
+                    "text": "Dasar hukum utama adalah konvensi internasional yang disetujui oleh Indonesia."
+                },
+                {
+                    "id": 4,
+                    "text": "Dasar hukum utama adalah keputusan presiden yang berlaku di seluruh wilayah Indonesia."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Dasar hukum utama bagi sistem pemerintahan Indonesia adalah Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+                "penjelasan": "Undang-Undang Dasar 1945 adalah konstitusi yang menjadi dasar hukum utama bagi negara Indonesia, yang mengatur struktur pemerintahan, hak-hak warga negara, dan prinsip-prinsip dasar negara."
+            }
+        },
+        {
+            "id": 20,
+            "soal": "Apa yang menjadi tugas dari Badan Pengawas Pemilu (Bawaslu) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Tugas Bawaslu adalah mengawasi pelaksanaan pemilihan umum dan memastikan proses pemilu berjalan dengan adil dan sesuai dengan peraturan."
+                },
+                {
+                    "id": 2,
+                    "text": "Tugas Bawaslu adalah menetapkan dan mengesahkan calon-calon legislatif dan eksekutif."
+                },
+                {
+                    "id": 3,
+                    "text": "Tugas Bawaslu adalah mengelola anggaran dan keuangan kampanye para kandidat."
+                },
+                {
+                    "id": 4,
+                    "text": "Tugas Bawaslu adalah memutuskan sengketa antar calon dalam pemilihan umum."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Tugas Bawaslu adalah mengawasi pelaksanaan pemilihan umum dan memastikan proses pemilu berjalan dengan adil dan sesuai dengan peraturan.",
+                "penjelasan": "Badan Pengawas Pemilu (Bawaslu) bertanggung jawab untuk memastikan bahwa pemilihan umum dilaksanakan secara jujur dan adil, serta menangani pelanggaran pemilu yang terjadi."
+            }
+        },
+        {
+            "id": 21,
+            "soal": "Apa yang dimaksud dengan 'Hukum Administrasi Negara' di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Hukum Administrasi Negara adalah aturan hukum yang mengatur hubungan antara lembaga pemerintah dan warga negara serta administrasi negara."
+                },
+                {
+                    "id": 2,
+                    "text": "Hukum Administrasi Negara adalah aturan yang mengatur hubungan antar negara dalam hukum internasional."
+                },
+                {
+                    "id": 3,
+                    "text": "Hukum Administrasi Negara adalah hukum yang mengatur proses peradilan di pengadilan umum."
+                },
+                {
+                    "id": 4,
+                    "text": "Hukum Administrasi Negara adalah hukum yang mengatur pemilihan umum dan prosedur politik."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Hukum Administrasi Negara adalah aturan hukum yang mengatur hubungan antara lembaga pemerintah dan warga negara serta administrasi negara.",
+                "penjelasan": "Hukum Administrasi Negara mengatur bagaimana lembaga pemerintahan melaksanakan fungsi administratifnya dan bagaimana hak-hak warga negara dilindungi dalam proses administrasi tersebut."
+            }
+        },
+        {
+            "id": 22,
+            "soal": "Apa yang menjadi prinsip dasar dari sistem demokrasi di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Prinsip dasar sistem demokrasi di Indonesia adalah kedaulatan rakyat di mana rakyat memiliki kekuasaan tertinggi dalam menentukan pemerintahan."
+                },
+                {
+                    "id": 2,
+                    "text": "Prinsip dasar sistem demokrasi adalah kekuasaan absolut di tangan presiden tanpa kontrol dari lembaga lain."
+                },
+                {
+                    "id": 3,
+                    "text": "Prinsip dasar sistem demokrasi adalah pemerintahan oleh satu partai politik yang dominan."
+                },
+                {
+                    "id": 4,
+                    "text": "Prinsip dasar sistem demokrasi adalah pengelolaan negara berdasarkan keputusan dari lembaga internasional."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Prinsip dasar sistem demokrasi di Indonesia adalah kedaulatan rakyat di mana rakyat memiliki kekuasaan tertinggi dalam menentukan pemerintahan.",
+                "penjelasan": "Demokrasi di Indonesia menegakkan prinsip bahwa kekuasaan pemerintahan berasal dari rakyat, dan rakyat memiliki hak untuk memilih pemimpin dan berpartisipasi dalam proses politik."
+            }
+        },
+        {
+            "id": 23,
+            "soal": "Apa peran dari Presiden Republik Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Presiden Republik Indonesia berfungsi sebagai kepala negara, kepala pemerintahan, dan panglima angkatan bersenjata serta bertanggung jawab untuk menjalankan kekuasaan eksekutif."
+                },
+                {
+                    "id": 2,
+                    "text": "Presiden Republik Indonesia bertugas untuk mengelola anggaran keuangan negara dan mengatur kebijakan luar negeri."
+                },
+                {
+                    "id": 3,
+                    "text": "Presiden Republik Indonesia hanya bertanggung jawab dalam urusan legislatif dan pembuatan undang-undang."
+                },
+                {
+                    "id": 4,
+                    "text": "Presiden Republik Indonesia adalah kepala lembaga peradilan dan bertanggung jawab atas keputusan hukum."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Presiden Republik Indonesia berfungsi sebagai kepala negara, kepala pemerintahan, dan panglima angkatan bersenjata serta bertanggung jawab untuk menjalankan kekuasaan eksekutif.",
+                "penjelasan": "Presiden Indonesia memiliki peran sebagai pemimpin eksekutif tertinggi yang mengatur pemerintahan, serta sebagai kepala negara dan panglima angkatan bersenjata."
+            }
+        },
+        {
+            "id": 24,
+            "soal": "Apa yang dimaksud dengan otonomi daerah dalam konteks pemerintahan Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Otonomi daerah adalah hak dan kewenangan yang diberikan kepada pemerintah daerah untuk mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat."
+                },
+                {
+                    "id": 2,
+                    "text": "Otonomi daerah adalah kewenangan pusat untuk mengatur seluruh kebijakan di daerah tanpa melibatkan pemerintah daerah."
+                },
+                {
+                    "id": 3,
+                    "text": "Otonomi daerah adalah sistem di mana kekuasaan pemerintahan sepenuhnya berada di tangan pemerintah pusat."
+                },
+                {
+                    "id": 4,
+                    "text": "Otonomi daerah adalah pengaturan khusus yang diberikan kepada lembaga internasional di Indonesia."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Otonomi daerah adalah hak dan kewenangan yang diberikan kepada pemerintah daerah untuk mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat.",
+                "penjelasan": "Otonomi daerah memberikan kekuasaan kepada pemerintah daerah untuk mengelola urusan lokal secara mandiri, dengan tujuan meningkatkan pelayanan dan partisipasi masyarakat di tingkat daerah."
+            }
+        },
+        {
+            "id": 25,
+            "soal": "Apa yang menjadi tujuan utama dari kebijakan luar negeri Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Tujuan utama kebijakan luar negeri Indonesia adalah untuk menjaga kedaulatan negara, meningkatkan hubungan internasional, dan mendukung perdamaian dunia."
+                },
+                {
+                    "id": 2,
+                    "text": "Tujuan utama kebijakan luar negeri adalah untuk meningkatkan kekuatan militer dan dominasi di kawasan."
+                },
+                {
+                    "id": 3,
+                    "text": "Tujuan utama kebijakan luar negeri adalah menghindari keterlibatan dalam konflik internasional dan fokus pada masalah domestik."
+                },
+                {
+                    "id": 4,
+                    "text": "Tujuan utama kebijakan luar negeri adalah untuk memanipulasi pasar internasional dan mengejar keuntungan ekonomi semata."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Tujuan utama kebijakan luar negeri Indonesia adalah untuk menjaga kedaulatan negara, meningkatkan hubungan internasional, dan mendukung perdamaian dunia.",
+                "penjelasan": "Kebijakan luar negeri Indonesia bertujuan untuk melindungi kepentingan nasional, memperkuat hubungan dengan negara lain, serta berkontribusi pada perdamaian dan keamanan internasional."
+            }
+        },
+        {
+            "id": 26,
+            "soal": "Apa yang dimaksud dengan sistem perwakilan dalam pemerintahan?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Sistem perwakilan adalah sistem di mana warga negara memilih wakil mereka untuk membuat keputusan dan menjalankan fungsi pemerintahan atas nama mereka."
+                },
+                {
+                    "id": 2,
+                    "text": "Sistem perwakilan adalah sistem di mana semua keputusan pemerintahan dibuat langsung oleh rakyat tanpa perwakilan."
+                },
+                {
+                    "id": 3,
+                    "text": "Sistem perwakilan adalah sistem di mana hanya pejabat pemerintah yang memiliki hak untuk membuat keputusan politik."
+                },
+                {
+                    "id": 4,
+                    "text": "Sistem perwakilan adalah sistem di mana keputusan pemerintahan diambil secara acak tanpa melibatkan pemilihan."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Sistem perwakilan adalah sistem di mana warga negara memilih wakil mereka untuk membuat keputusan dan menjalankan fungsi pemerintahan atas nama mereka.",
+                "penjelasan": "Sistem perwakilan memungkinkan rakyat untuk memilih pejabat yang akan mewakili mereka dalam pembuatan kebijakan dan pengambilan keputusan pemerintahan."
+            }
+        },
+        {
+            "id": 27,
+            "soal": "Apa yang dimaksud dengan ‘Pancasila’ dalam konteks Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Pancasila adalah dasar negara Indonesia yang terdiri dari lima sila yang menjadi panduan dalam kehidupan berbangsa dan bernegara."
+                },
+                {
+                    "id": 2,
+                    "text": "Pancasila adalah nama untuk sistem pemerintahan yang menerapkan hukum agama secara ketat."
+                },
+                {
+                    "id": 3,
+                    "text": "Pancasila adalah kebijakan luar negeri Indonesia yang fokus pada hubungan dengan negara-negara tetangga."
+                },
+                {
+                    "id": 4,
+                    "text": "Pancasila adalah program sosial ekonomi yang dirancang untuk meningkatkan kesejahteraan masyarakat."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Pancasila adalah dasar negara Indonesia yang terdiri dari lima sila yang menjadi panduan dalam kehidupan berbangsa dan bernegara.",
+                "penjelasan": "Pancasila sebagai dasar negara Indonesia memuat lima sila yang menjadi pedoman dalam berpolitik, bernegara, dan menjalankan kehidupan sehari-hari sesuai dengan nilai-nilai luhur bangsa."
+            }
+        },
+        {
+            "id": 28,
+            "soal": "Apa yang dimaksud dengan 'Desentralisasi' dalam administrasi negara?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Desentralisasi adalah proses pembagian wewenang dari pemerintah pusat kepada pemerintah daerah untuk mengelola urusan lokal secara mandiri."
+                },
+                {
+                    "id": 2,
+                    "text": "Desentralisasi adalah pengumpulan semua kekuasaan pemerintah ke tangan pemerintah pusat untuk kontrol yang lebih ketat."
+                },
+                {
+                    "id": 3,
+                    "text": "Desentralisasi adalah sistem di mana keputusan administratif dibuat secara acak tanpa adanya koordinasi."
+                },
+                {
+                    "id": 4,
+                    "text": "Desentralisasi adalah penggabungan fungsi pemerintahan antara lembaga pemerintah dan sektor swasta."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Desentralisasi adalah proses pembagian wewenang dari pemerintah pusat kepada pemerintah daerah untuk mengelola urusan lokal secara mandiri.",
+                "penjelasan": "Desentralisasi bertujuan untuk memberikan otonomi kepada pemerintah daerah agar dapat mengatur dan mengurus urusan lokal lebih efektif dan sesuai dengan kebutuhan masyarakat setempat."
+            }
+        },
+        {
+            "id": 29,
+            "soal": "Apa yang menjadi fungsi dari Mahkamah Konstitusi (MK) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Fungsi Mahkamah Konstitusi (MK) adalah menguji undang-undang terhadap Undang-Undang Dasar dan menyelesaikan sengketa hasil pemilihan umum."
+                },
+                {
+                    "id": 2,
+                    "text": "Fungsi Mahkamah Konstitusi (MK) adalah mengatur dan mengelola anggaran negara serta melakukan audit keuangan."
+                },
+                {
+                    "id": 3,
+                    "text": "Fungsi Mahkamah Konstitusi (MK) adalah menetapkan kebijakan luar negeri dan hubungan internasional."
+                },
+                {
+                    "id": 4,
+                    "text": "Fungsi Mahkamah Konstitusi (MK) adalah mengelola proses peradilan di pengadilan umum dan menetapkan hukuman."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Fungsi Mahkamah Konstitusi (MK) adalah menguji undang-undang terhadap Undang-Undang Dasar dan menyelesaikan sengketa hasil pemilihan umum.",
+                "penjelasan": "Mahkamah Konstitusi memiliki wewenang untuk menguji konstitusionalitas undang-undang dan menyelesaikan sengketa pemilihan umum serta melindungi konstitusi negara."
+            }
+        },
+        {
+            "id": 30,
+            "soal": "Apa yang menjadi hak dan kewajiban warga negara di bawah hukum dasar negara?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Hak dan kewajiban warga negara meliputi hak atas kebebasan berpendapat, hak atas pendidikan, serta kewajiban membayar pajak dan patuh pada hukum."
+                },
+                {
+                    "id": 2,
+                    "text": "Hak dan kewajiban warga negara hanya mencakup hak untuk memilih dalam pemilihan umum dan kewajiban untuk memilih kandidat yang ditunjuk pemerintah."
+                },
+                {
+                    "id": 3,
+                    "text": "Hak dan kewajiban warga negara adalah hak untuk mendapatkan jaminan sosial dari pemerintah dan kewajiban untuk tidak terlibat dalam politik."
+                },
+                {
+                    "id": 4,
+                    "text": "Hak dan kewajiban warga negara hanya melibatkan hak untuk mendapatkan pekerjaan dari pemerintah dan kewajiban untuk mengikuti pelatihan militer."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Hak dan kewajiban warga negara meliputi hak atas kebebasan berpendapat, hak atas pendidikan, serta kewajiban membayar pajak dan patuh pada hukum.",
+                "penjelasan": "Sebagai warga negara, setiap individu memiliki hak dasar yang diatur oleh konstitusi, termasuk hak untuk berpendapat dan mendapatkan pendidikan, serta kewajiban seperti membayar pajak dan mematuhi hukum."
+            }
+        },
+        {
+            "id": 31,
+            "soal": "Apa yang menjadi tugas dari Komisi Pemilihan Umum (KPU) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Tugas Komisi Pemilihan Umum (KPU) adalah menyelenggarakan pemilihan umum, termasuk pemilihan presiden, legislatif, dan kepala daerah."
+                },
+                {
+                    "id": 2,
+                    "text": "Tugas Komisi Pemilihan Umum (KPU) adalah mengatur dan mengelola anggaran negara dan memantau kegiatan pemerintahan."
+                },
+                {
+                    "id": 3,
+                    "text": "Tugas Komisi Pemilihan Umum (KPU) adalah menetapkan kebijakan ekonomi dan sosial bagi negara."
+                },
+                {
+                    "id": 4,
+                    "text": "Tugas Komisi Pemilihan Umum (KPU) adalah menangani kasus-kasus hukum dan peradilan di pengadilan umum."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Tugas Komisi Pemilihan Umum (KPU) adalah menyelenggarakan pemilihan umum, termasuk pemilihan presiden, legislatif, dan kepala daerah.",
+                "penjelasan": "Komisi Pemilihan Umum (KPU) bertanggung jawab atas penyelenggaraan pemilihan umum yang adil dan transparan, serta memastikan seluruh proses pemilihan dilakukan sesuai dengan peraturan yang berlaku."
+            }
+        },
+        {
+            "id": 32,
+            "soal": "Apa yang dimaksud dengan ‘Reformasi’ dalam konteks politik Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Reformasi adalah periode perubahan signifikan dalam sistem politik dan pemerintahan Indonesia yang dimulai pada akhir 1990-an untuk meningkatkan transparansi dan akuntabilitas."
+                },
+                {
+                    "id": 2,
+                    "text": "Reformasi adalah program untuk meningkatkan hubungan internasional dan memperluas perjanjian perdagangan."
+                },
+                {
+                    "id": 3,
+                    "text": "Reformasi adalah usaha untuk memperbaiki kondisi sosial ekonomi tanpa perubahan dalam struktur pemerintahan."
+                },
+                {
+                    "id": 4,
+                    "text": "Reformasi adalah inisiatif untuk mengubah hukum-hukum yang ada untuk meningkatkan kekuasaan pemerintahan pusat."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Reformasi adalah periode perubahan signifikan dalam sistem politik dan pemerintahan Indonesia yang dimulai pada akhir 1990-an untuk meningkatkan transparansi dan akuntabilitas.",
+                "penjelasan": "Reformasi bertujuan untuk memperbaiki sistem politik dan pemerintahan dengan mengurangi korupsi, meningkatkan transparansi, dan memperkuat demokrasi."
+            }
+        },
+        {
+            "id": 33,
+            "soal": "Apa yang dimaksud dengan ‘Demokrasi’ dalam sistem pemerintahan?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Demokrasi adalah sistem pemerintahan di mana kekuasaan politik dipegang oleh rakyat, yang memilih wakil mereka melalui pemilihan umum."
+                },
+                {
+                    "id": 2,
+                    "text": "Demokrasi adalah sistem di mana kekuasaan sepenuhnya berada di tangan satu individu tanpa adanya partisipasi rakyat."
+                },
+                {
+                    "id": 3,
+                    "text": "Demokrasi adalah sistem pemerintahan yang hanya memberikan kekuasaan kepada elite politik tanpa melibatkan rakyat."
+                },
+                {
+                    "id": 4,
+                    "text": "Demokrasi adalah sistem di mana keputusan pemerintah diambil oleh kelompok kecil tanpa melibatkan pemilihan umum."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Demokrasi adalah sistem pemerintahan di mana kekuasaan politik dipegang oleh rakyat, yang memilih wakil mereka melalui pemilihan umum.",
+                "penjelasan": "Dalam sistem demokrasi, rakyat memiliki hak untuk memilih pemimpin mereka dan terlibat dalam pembuatan keputusan yang mempengaruhi kehidupan mereka."
+            }
+        },
+        {
+            "id": 34,
+            "soal": "Apa peran dari Badan Pemeriksa Keuangan (BPK) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Badan Pemeriksa Keuangan (BPK) berfungsi untuk memeriksa dan mengaudit pengelolaan keuangan negara untuk memastikan akuntabilitas dan transparansi."
+                },
+                {
+                    "id": 2,
+                    "text": "Badan Pemeriksa Keuangan (BPK) bertugas menetapkan kebijakan ekonomi dan sosial negara."
+                },
+                {
+                    "id": 3,
+                    "text": "Badan Pemeriksa Keuangan (BPK) mengelola anggaran negara dan mengatur alokasi dana untuk proyek pemerintah."
+                },
+                {
+                    "id": 4,
+                    "text": "Badan Pemeriksa Keuangan (BPK) menangani kasus-kasus hukum dan penyelesaian sengketa antar lembaga pemerintah."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Badan Pemeriksa Keuangan (BPK) berfungsi untuk memeriksa dan mengaudit pengelolaan keuangan negara untuk memastikan akuntabilitas dan transparansi.",
+                "penjelasan": "BPK memiliki tugas utama untuk memeriksa dan mengaudit pengelolaan keuangan negara, memastikan bahwa dana digunakan secara efisien dan sesuai dengan peraturan yang berlaku."
+            }
+        },
+        {
+            "id": 35,
+            "soal": "Apa yang dimaksud dengan ‘Hak Asasi Manusia’ (HAM) dalam konteks hukum internasional?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Hak Asasi Manusia (HAM) adalah hak-hak dasar yang dimiliki setiap individu sejak lahir, tanpa membedakan ras, agama, atau kebangsaan, dan diakui secara internasional."
+                },
+                {
+                    "id": 2,
+                    "text": "Hak Asasi Manusia (HAM) adalah hak-hak khusus yang diberikan hanya kepada warga negara tertentu oleh pemerintah."
+                },
+                {
+                    "id": 3,
+                    "text": "Hak Asasi Manusia (HAM) adalah hak-hak yang hanya berlaku di negara-negara maju dan tidak diakui di negara-negara berkembang."
+                },
+                {
+                    "id": 4,
+                    "text": "Hak Asasi Manusia (HAM) adalah hak-hak yang berkaitan dengan pengelolaan kekayaan alam dan sumber daya negara."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Hak Asasi Manusia (HAM) adalah hak-hak dasar yang dimiliki setiap individu sejak lahir, tanpa membedakan ras, agama, atau kebangsaan, dan diakui secara internasional.",
+                "penjelasan": "HAM meliputi hak-hak yang harus dihormati dan dilindungi oleh negara dan masyarakat, serta diakui di tingkat internasional sebagai standar hak dasar manusia."
+            }
+        },
+        {
+            "id": 36,
+            "soal": "Apa yang menjadi tujuan dari Undang-Undang Dasar 1945 (UUD 1945) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Tujuan dari Undang-Undang Dasar 1945 adalah sebagai dasar hukum tertinggi yang mengatur struktur pemerintahan, hak-hak dasar warga negara, dan prinsip-prinsip negara."
+                },
+                {
+                    "id": 2,
+                    "text": "Tujuan dari Undang-Undang Dasar 1945 adalah untuk menetapkan peraturan khusus mengenai ekonomi dan perdagangan internasional."
+                },
+                {
+                    "id": 3,
+                    "text": "Tujuan dari Undang-Undang Dasar 1945 adalah untuk mengatur semua kegiatan sosial dan budaya secara rinci."
+                },
+                {
+                    "id": 4,
+                    "text": "Tujuan dari Undang-Undang Dasar 1945 adalah untuk menetapkan kekuasaan mutlak bagi lembaga eksekutif negara."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Tujuan dari Undang-Undang Dasar 1945 adalah sebagai dasar hukum tertinggi yang mengatur struktur pemerintahan, hak-hak dasar warga negara, dan prinsip-prinsip negara.",
+                "penjelasan": "UUD 1945 berfungsi sebagai konstitusi yang menjadi pedoman utama bagi penyelenggaraan pemerintahan dan perlindungan hak-hak dasar warga negara di Indonesia."
+            }
+        },
+        {
+            "id": 37,
+            "soal": "Apa yang dimaksud dengan ‘Sistem Parlementer’ dalam pemerintahan?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Sistem Parlementer adalah sistem pemerintahan di mana kekuasaan eksekutif bergantung pada dukungan legislatif dan perdana menteri sebagai kepala pemerintahan."
+                },
+                {
+                    "id": 2,
+                    "text": "Sistem Parlementer adalah sistem di mana kekuasaan eksekutif dipegang oleh seorang presiden yang tidak bergantung pada dukungan legislatif."
+                },
+                {
+                    "id": 3,
+                    "text": "Sistem Parlementer adalah sistem di mana kekuasaan legislatif dan eksekutif sepenuhnya terpisah dan tidak saling mempengaruhi."
+                },
+                {
+                    "id": 4,
+                    "text": "Sistem Parlementer adalah sistem di mana kekuasaan eksekutif dan legislatif berada di tangan satu individu tanpa adanya pemilihan umum."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Sistem Parlementer adalah sistem pemerintahan di mana kekuasaan eksekutif bergantung pada dukungan legislatif dan perdana menteri sebagai kepala pemerintahan.",
+                "penjelasan": "Dalam sistem parlementer, kepala pemerintahan (perdana menteri) diangkat oleh parlemen dan harus mendapatkan dukungan mayoritas di legislatif untuk dapat menjalankan pemerintahan."
+            }
+        },
+        {
+            "id": 38,
+            "soal": "Apa yang dimaksud dengan ‘Badan Penyelenggara Jaminan Sosial’ (BPJS) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Badan Penyelenggara Jaminan Sosial (BPJS) adalah lembaga pemerintah yang menyelenggarakan jaminan sosial, termasuk kesehatan dan ketenagakerjaan, untuk masyarakat Indonesia."
+                },
+                {
+                    "id": 2,
+                    "text": "Badan Penyelenggara Jaminan Sosial (BPJS) adalah lembaga swasta yang mengatur sistem perbankan dan keuangan di Indonesia."
+                },
+                {
+                    "id": 3,
+                    "text": "Badan Penyelenggara Jaminan Sosial (BPJS) adalah lembaga internasional yang mengatur perdagangan dan investasi global."
+                },
+                {
+                    "id": 4,
+                    "text": "Badan Penyelenggara Jaminan Sosial (BPJS) adalah lembaga yang mengatur sistem pendidikan dan pelatihan profesional di Indonesia."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Badan Penyelenggara Jaminan Sosial (BPJS) adalah lembaga pemerintah yang menyelenggarakan jaminan sosial, termasuk kesehatan dan ketenagakerjaan, untuk masyarakat Indonesia.",
+                "penjelasan": "BPJS berfungsi untuk memberikan perlindungan sosial dalam bentuk jaminan kesehatan dan jaminan ketenagakerjaan kepada seluruh masyarakat Indonesia."
+            }
+        },
+        {
+            "id": 39,
+            "soal": "Apa tujuan dari ‘Program Keluarga Harapan’ (PKH) di Indonesia?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Program Keluarga Harapan (PKH) bertujuan untuk memberikan bantuan sosial kepada keluarga miskin dengan harapan dapat meningkatkan kesejahteraan mereka dan mengurangi kemiskinan."
+                },
+                {
+                    "id": 2,
+                    "text": "Program Keluarga Harapan (PKH) bertujuan untuk mengatur dan mengelola sumber daya alam di Indonesia."
+                },
+                {
+                    "id": 3,
+                    "text": "Program Keluarga Harapan (PKH) bertujuan untuk mengembangkan sektor industri dan perdagangan di Indonesia."
+                },
+                {
+                    "id": 4,
+                    "text": "Program Keluarga Harapan (PKH) bertujuan untuk mempromosikan pariwisata dan budaya Indonesia di luar negeri."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Program Keluarga Harapan (PKH) bertujuan untuk memberikan bantuan sosial kepada keluarga miskin dengan harapan dapat meningkatkan kesejahteraan mereka dan mengurangi kemiskinan.",
+                "penjelasan": "PKH merupakan program bantuan sosial yang ditujukan untuk meningkatkan kualitas hidup keluarga miskin melalui pemberian bantuan keuangan dan akses kepada layanan sosial."
+            }
+        },
+        {
+            "id": 40,
+            "soal": "Apa yang dimaksud dengan ‘Desentralisasi’ dalam sistem pemerintahan?",
+            "jawaban_pilihan": [
+                {
+                    "id": 1,
+                    "text": "Desentralisasi adalah proses pembagian kekuasaan dan wewenang dari pemerintah pusat kepada pemerintah daerah untuk meningkatkan efisiensi dan responsivitas terhadap kebutuhan lokal."
+                },
+                {
+                    "id": 2,
+                    "text": "Desentralisasi adalah proses penyerahan kekuasaan penuh dari pemerintah daerah kepada pemerintah pusat."
+                },
+                {
+                    "id": 3,
+                    "text": "Desentralisasi adalah sistem di mana kekuasaan hanya berada di tangan satu badan pemerintahan pusat tanpa adanya wewenang lokal."
+                },
+                {
+                    "id": 4,
+                    "text": "Desentralisasi adalah proses yang mengurangi jumlah lembaga pemerintah untuk mempermudah birokrasi."
+                }
+            ],
+            "jawaban": {
+                "id": 1,
+                "text": "Desentralisasi adalah proses pembagian kekuasaan dan wewenang dari pemerintah pusat kepada pemerintah daerah untuk meningkatkan efisiensi dan responsivitas terhadap kebutuhan lokal.",
+                "penjelasan": "Desentralisasi bertujuan untuk memberikan wewenang dan tanggung jawab lebih kepada pemerintah daerah agar dapat mengelola urusan lokal dengan lebih baik dan sesuai dengan kebutuhan masyarakat setempat."
+            }
+        }
+    ]
+}]
